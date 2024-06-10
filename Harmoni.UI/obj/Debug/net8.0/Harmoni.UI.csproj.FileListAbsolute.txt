@@ -1,0 +1,60 @@
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.RazorAssemblyInfo.cache
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.RazorAssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\appsettings.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.staticwebassets.runtime.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.exe
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.deps.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.runtimeconfig.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.pdb
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.Harmoni.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.Harmoni.UI.props
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Harmoni.UI.props
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Harmoni.UI.props
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\scopedcss\bundle\Harmoni.UI.styles.css
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\scopedcss\projectbundle\Harmoni.UI.bundle.scp.css
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\refint\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.pdb
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.genruntimeconfig.cache
+D:\Coding\Aztu-Codeacademy\ASP.NET CORE MVC\Harmoni\Harmoni.UI\obj\Debug\net8.0\ref\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\appsettings.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.staticwebassets.runtime.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.exe
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.deps.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.runtimeconfig.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Harmoni.UI.pdb
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.RazorAssemblyInfo.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.RazorAssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.Harmoni.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.Harmoni.UI.props
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Harmoni.UI.props
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Harmoni.UI.props
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\scopedcss\bundle\Harmoni.UI.styles.css
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\scopedcss\projectbundle\Harmoni.UI.bundle.scp.css
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\refint\Harmoni.UI.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.pdb
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.genruntimeconfig.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\ref\Harmoni.UI.dll
