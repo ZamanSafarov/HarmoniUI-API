@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BnglVNQ+7mmBMUikZ7mdyiZBDRvqCW7rnO2R/y5LKzJWv5VmZ+1nQuAMIJVkngZPyOH9JVwYpO8F6NysyIJBTw==",
+  "dgSpecHash": "qT3BFtwRUIrQEgYfR+3Zbd3t75t9URVyUE53KLNpEMyCKYFVa6eAQjZZK7QZ6IXzvRGorfoyVXHcWiOvr6JClg==",
   "success": true,
   "projectFilePath": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Core\\Harmoni.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\x.pagedlist\\8.4.7\\x.pagedlist.8.4.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\x.pagedlist.mvc.core\\8.4.7\\x.pagedlist.mvc.core.8.4.7.nupkg.sha512"
+  ],
   "logs": []
 }

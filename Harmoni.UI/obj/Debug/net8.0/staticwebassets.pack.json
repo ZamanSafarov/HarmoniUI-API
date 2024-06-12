@@ -5,6 +5,2842 @@
       "PackagePath": "staticwebassets\\Harmoni.UI.bundle.scp.css"
     },
     {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\color-1.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\color-1.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\images\\tree\\32px.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\images\\tree\\32px.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\images\\tree\\40px.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\images\\tree\\40px.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\img\\flags.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\img\\flags.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\img\\flags@2x.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\img\\flags@2x.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\${file-1x}.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\${file-1x}.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\${file-2x}.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\${file-2x}.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\ajax-loader.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\ajax-loader.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\animate.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\aos.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\aos.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\calendar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\calendar.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\chartist.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\chartist.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\datatable-extension.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\datatable-extension.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\datatables.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\datatables.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\date-picker.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\date-picker.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\dropzone-spritemap.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\dropzone-spritemap.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\dropzone.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\dropzone.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\echart.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\echart.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\emoji\\uikit.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\emoji\\uikit.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\feather-icon.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\feather-icon.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\filepond-plugin-image-preview.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\filepond-plugin-image-preview.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\filepond.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\filepond.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\flag-icon.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\flag-icon.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\font-awesome.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\font-awesome.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\fonts\\slick-2.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\fonts\\slick-2.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\fonts\\slick-3.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\fonts\\slick-3.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\fonts\\slick-4.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\fonts\\slick-4.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\fonts\\slick.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\fonts\\slick.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\fonts\\slickd41d.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\fonts\\slickd41d.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\fullcalender.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\fullcalender.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\icofont.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\icofont.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\image-cropper.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\image-cropper.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\images\\layers-2x.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\images\\layers-2x.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\images\\layers.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\images\\layers.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\intltelinput.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\intltelinput.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\jkanban.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\jkanban.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\js-datatables\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\js-datatables\\style.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\jsgrid.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\jsgrid.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\leaflet.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\leaflet.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\owlcarousel.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\owlcarousel.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\photoswipe.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\photoswipe.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\preloader.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\preloader.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\prism.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\prism.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\quill.snow.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\range-slider.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\range-slider.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\rangeslider\\rSlider.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\rangeslider\\rSlider.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\rating.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\rating.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\scrollable.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\scrollable.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\scrollbar.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\select2.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\select2.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\slick-theme.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\slick.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\slick.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\sweetalert2.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\tagify.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\tagify.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\themify.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\themify.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\todo.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\todo.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\tour.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\tour.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\tree.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\tree.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\vector-map.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\vector-map.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\css\\vendors\\whether-icon.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendors\\whether-icon.css"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\alert\\balance.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\alert\\balance.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\alert\\learning.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\alert\\learning.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\alert\\social.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\alert\\social.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\avtar\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avtar\\11.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\avtar\\16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avtar\\16.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\avtar\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avtar\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\avtar\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avtar\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\avtar\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avtar\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\01.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\010.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\010.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\011.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\011.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\012.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\012.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\013.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\013.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\014.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\014.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\015.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\015.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\016.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\016.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\02.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\03.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\04.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\04.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\05.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\05.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\06.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\06.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\07.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\07.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\08.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\08.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-lightgallry\\09.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-lightgallry\\09.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\10.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\11.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\12.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\13.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\14.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\15.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\big-masonry\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big-masonry\\9.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\12.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\12.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\14.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\14.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\9.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\blog-single.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\blog.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\comment.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\comment.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\blog\\img.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\img.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\checkout\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\checkout\\paypal.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\balance-bg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\balance-bg.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\category\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\category\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\category\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\category\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\category\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\category\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\dashboard-banner.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\dashboard-banner.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\headphones.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\headphones.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\office-work.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\office-work.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\product\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\product\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\product\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\product\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-2\\product\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-2\\product\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\boostup1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\boostup1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\boostup2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\boostup2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\product\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\product\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\product\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\product\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\product\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\product\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\product\\4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\product\\4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\profile-bg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\profile-bg.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\profile.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\profile.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard-3\\user.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard-3\\user.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\Banner.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\Banner.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\Dashboard-Ecommerce-banner.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\Dashboard-Ecommerce-banner.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\bg-balance.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\bg-balance.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\folder.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\folder.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\6.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\7.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\8.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\8.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\order-table\\9.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\order-table\\9.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\profile.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\profile.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\user\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\user\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\user\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\user\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\user\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\user\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\user\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\user\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\dashboard\\widget-bg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\widget-bg.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\details_close.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\details_close.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\details_open.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\details_open.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\01.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\02.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\03.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\04.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\04.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\05.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\05.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\06.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\06.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\07.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\07.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\08.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\08.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\banner.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\card.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\card.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\paypal.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\dvd.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\dvd.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\headphone.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\headphone.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\ipad.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\ipad.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\laptop.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\laptop.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\mouse.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\mouse.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\phone.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\phone.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\speaker.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\speaker.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\watch.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\watch.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-categories\\wireless-headphone.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-categories\\wireless-headphone.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-table-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-table-1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-table-2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-table-2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-table-3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-table-3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-table-4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-table-4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-table-5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-table-5.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\product-table-6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\product-table-6.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\ecommerce\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ecommerce\\visa.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\10.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\11.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\12.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\5.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\6.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\7.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\8.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\8.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\banner.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\cosmetic.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\cosmetic.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\delivery-2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\delivery-2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\delivery.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\delivery.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\facebook.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\facebook.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\gplus.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\gplus.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\invoice-1\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\invoice-1\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\invoice-1\\sign.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\invoice-1\\sign.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\invoice-3\\bg-0.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\invoice-3\\bg-0.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\invoice-3\\sign.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\invoice-3\\sign.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\linkedin.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\pdfs.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\pdfs.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\pinterest.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\pinterest.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\slider.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\slider.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\space.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\space.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\twitter.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\twitter.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email-template\\youtube.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email-template\\youtube.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\email\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\email\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\faq\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\faq\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\faq\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\faq\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\faq\\learning-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq\\learning-1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\favicon\\favicon.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon\\favicon.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\Bank-of-Baroda.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\Bank-of-Baroda.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\SCB.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\SCB.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\authenticate.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\authenticate.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\axis.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\axis.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\credit-card.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\credit-card.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\delivery.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\delivery.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\email.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\email.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\flags.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\flags.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\hdfc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\hdfc.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\idbi.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\idbi.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\qr-code.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\qr-code.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\qr-scan.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\qr-scan.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\rbl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\rbl.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\us-bank.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\us-bank.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\forms\\user.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\forms\\user.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\danger.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\danger.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\dashboard-8\\successful.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\dashboard-8\\successful.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\facebook.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\facebook.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\instagram.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\instagram.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\logout.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\logout.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\online-shopping.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\online-shopping.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\gif\\whatapp.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\gif\\whatapp.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\hand.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\hand.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\icon-tree.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\icon-tree.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\job-search\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\job-search\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\job-search\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\job-search\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\job-search\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\job-search\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\job-search\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\job-search\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\job-search\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\job-search\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\job-search\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\job-search\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\js-grid.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\js-grid.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\knowledgebase\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\knowledgebase\\bg_1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\Vector.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\Vector.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\10.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\11.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\12.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\application\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\application\\9.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\bg-footer.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\bg-footer.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\demo-bg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\demo-bg.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\demo\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\demo\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\demo\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\demo\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\demo\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\demo\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\demo\\dashboard-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\demo\\dashboard-1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\apps.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\apps.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\bootstrap.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\bootstrap.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\builders.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\builders.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\charts.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\charts.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\css.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\css.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\forms.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\forms.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\gulp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\gulp.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\iconset.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\iconset.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\kit.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\kit.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\npm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\npm.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\pug.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\pug.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\sass.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\sass.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\table.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\table.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\uikits.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\uikits.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\icon\\html\\web-pack.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\icon\\html\\web-pack.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\landing_logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\landing_logo.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\newuser.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\newuser.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\nft-marketplace.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\nft-marketplace.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\selling-product.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\selling-product.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\sidebarcuts.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\sidebarcuts.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\star.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\star.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\totalrevenue.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\totalrevenue.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\landing\\unique.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\landing\\unique.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\01.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\010.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\010.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\011.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\011.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\012.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\012.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\013.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\013.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\014.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\014.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\015.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\015.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\016.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\016.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\02.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\03.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\04.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\04.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\05.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\05.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\06.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\06.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\07.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\07.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\08.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\08.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\09.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\09.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\lightgallry\\default-skin.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\lightgallry\\default-skin.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\login\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\login\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\login\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\login\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\login\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\login\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\login\\icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\login\\icon.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\login\\login_bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\login\\login_bg.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\logo\\logo-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\logo\\logo_dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo\\logo_dark.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\marker-icon.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\10.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\11.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\12.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\13.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\14.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\15.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\masonry\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\masonry\\9.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\bg-profile.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\bg-profile.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\boxbg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\boxbg.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\cart-img.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\cart-img.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\coming-soon-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\coming-soon-bg.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\img-cropper.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\img-cropper.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\logo-login.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\logo-login.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\maintenance-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\maintenance-bg.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\mountain.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\mountain.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\paypal.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\profile-style-img.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\profile-style-img.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\profile-style-img3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\profile-style-img3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\receiver-img.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\receiver-img.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\sad.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\sad.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\sea.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\sea.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\other-images\\sidebar-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\other-images\\sidebar-bg.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\10.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\10.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\11.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\11.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\12.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\12.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\13.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\13.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\14.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\14.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\15.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\15.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\category\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\category\\1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\category\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\category\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\category\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\category\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\category\\4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\category\\4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\product\\category\\5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\product\\category\\5.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\scrollbar\\fashion1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\scrollbar\\fashion1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\scrollbar\\fashion2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\scrollbar\\fashion2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\scrollbar\\fashion3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\scrollbar\\fashion3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\scrollbar\\fashion4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\scrollbar\\fashion4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\scrollbar\\fashion5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\scrollbar\\fashion5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\scrollbar\\fashion6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\scrollbar\\fashion6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-5.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-6.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-7.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-8.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-8.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\post-9.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\post-9.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\social-image.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\social-image.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\timeline-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\timeline-1.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\timeline-2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\timeline-2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\timeline-3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\timeline-3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\social-app\\timeline-4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\social-app\\timeline-4.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\switch\\square-gray.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\switch\\square-gray.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\tree-1.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tree-1.html"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\tree\\32px.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tree\\32px.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\tree\\throbber.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tree\\throbber.gif"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\1.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\10.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\11.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\11.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\12.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\12.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\14.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\14.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\15.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\15.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\17.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\17.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\18.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\18.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\19.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\19.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\2.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\2.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\21.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\21.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\22.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\22.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\23.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\23.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\24.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\24.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\25.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\25.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\26.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\26.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\27.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\27.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\28.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\28.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\29.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\29.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\3.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\3.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\30.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\30.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\31.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\31.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\32.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\32.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\33.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\33.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\34.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\34.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\35.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\35.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\38.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\38.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\39.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\39.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\4.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\40.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\40.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\41.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\41.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\42.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\42.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\43.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\43.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\44.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\44.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\45.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\45.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\47.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\47.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\49.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\49.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\5.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\50.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\50.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\51.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\51.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\52.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\52.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\53.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\53.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\54.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\54.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\6.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\7.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\9.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\images\\user\\user.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user\\user.png"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\add-product\\select4-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\add-product\\select4-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\alert.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\alert.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\animate-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\animate-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\aos\\aos-init.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\aos\\aos-init.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\scroll-reveal\\reveal-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\scroll-reveal\\reveal-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\scroll-reveal\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\scroll-reveal\\scrollreveal.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\tilt\\tilt-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\tilt\\tilt-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\tilt\\tilt.jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\tilt\\tilt.jquery.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\wow\\wow-init.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\wow\\wow-init.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\animation\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\animation\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\bookmark\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bookmark\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\bookmark\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bookmark\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\calendar\\custom-calendar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\calendar\\custom-calendar.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\calendar\\fullcalendar-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\calendar\\fullcalendar-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\calendar\\fullcalender.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\calendar\\fullcalender.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart-widget.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart-widget.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\apex-chart\\apex-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\apex-chart\\apex-chart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\apex-chart\\chart-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\apex-chart\\chart-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\apex-chart\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\apex-chart\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\apex-chart\\stock-prices.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\apex-chart\\stock-prices.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\chartist\\chartist-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\chartist\\chartist-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\chartist\\chartist-plugin-tooltip.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\chartist\\chartist-plugin-tooltip.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\chartist\\chartist.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\chartist\\chartist.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\chartjs\\chart.custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\chartjs\\chart.custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\config.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\config.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\data\\symbols.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\data\\symbols.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\esl.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\esl.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\pie-chart\\custom-transition-texture.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\pie-chart\\custom-transition-texture.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\pie-chart\\facePrint.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\pie-chart\\facePrint.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\echart\\pie-chart\\testHelper.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\echart\\pie-chart\\testHelper.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\excanvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\excanvas.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\flot-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\flot-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\flot-chart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\google\\google-chart-loader.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\google\\google-chart-loader.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\google\\google-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\google\\google-chart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\knob\\knob-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\knob\\knob-chart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\knob\\knob.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\knob\\knob.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\morris-chart\\morris-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\morris-chart\\morris-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\morris-chart\\morris.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\morris-chart\\morris.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\morris-chart\\prettify.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\morris-chart\\prettify.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\morris-chart\\raphael.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\morris-chart\\raphael.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\peity-chart\\peity-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\peity-chart\\peity-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\peity-chart\\peity.jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\peity-chart\\peity.jquery.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\sparkline\\sparkline-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\sparkline\\sparkline-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\chart\\sparkline\\sparkline.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart\\sparkline\\sparkline.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\cleave\\cleave.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\cleave\\cleave.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\cleave\\custom-cleave.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\cleave\\custom-cleave.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\clipboard\\clipboard-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\clipboard\\clipboard-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\common-chat.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\common-chat.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\contacts\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\contacts\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\countdown.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\counter\\counter-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\counter\\counter-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\counter\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\counter\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\counter\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\counter\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\cursor\\stats.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\cursor\\stats.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\custom-add-product.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom-add-product.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\custom-add-product3.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom-add-product3.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\custom-add-product4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom-add-product4.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\custom-card\\custom-card.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom-card\\custom-card.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\custom-list-product.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom-list-product.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dashboard\\dashboard_2.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard\\dashboard_2.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dashboard\\dashboard_3.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard\\dashboard_3.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dashboard\\default.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard\\default.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\dataTables.select.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\jszip.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable-extension\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable-extension\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatable_advance.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatable_advance.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatables\\datatable.custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatables\\datatable.custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatables\\datatable.custom1.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatables\\datatable.custom1.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datatable\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datatable\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datepicker\\date-picker\\datepicker.custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datepicker\\date-picker\\datepicker.custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datepicker\\date-picker\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datepicker\\date-picker\\datepicker.en.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\datepicker\\date-picker\\datepicker.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\datepicker\\date-picker\\datepicker.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dragable\\sortable-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dragable\\sortable-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dragable\\sortable.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dragable\\sortable.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dropzone\\dropzone-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dropzone\\dropzone-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\ecommerce.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ecommerce.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\ace-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\ace-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\ace.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\ace.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\mode-css.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\mode-css.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\mode-html.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\mode-html.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\mode-javascript.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\mode-javascript.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\mode-php.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\mode-php.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\theme-monokai.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\theme-monokai.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\worker-css.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\worker-css.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\worker-html.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\worker-html.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\worker-javascript.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\worker-javascript.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editor\\ace-editor\\worker-php.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editor\\ace-editor\\worker-php.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editors\\custom-quill.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editors\\custom-quill.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\editors\\quill.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\editors\\quill.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\emoji-js\\custom-emoji.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\emoji-js\\custom-emoji.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\emoji-js\\custom-emojis.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\emoji-js\\custom-emojis.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\emoji-js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\emoji-js\\uikit.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\filepond\\custom-filepond.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\filepond\\custom-filepond.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\filepond\\filepond-plugin-file-rename.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\filepond\\filepond-plugin-file-rename.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\filepond\\filepond-plugin-image-preview.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\filepond\\filepond-plugin-image-preview.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\filepond\\filepond-plugin-image-transform.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\filepond\\filepond-plugin-image-transform.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\filepond\\filepond.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\filepond\\filepond.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\flat-pickr\\custom-flatpickr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\flat-pickr\\custom-flatpickr.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\flat-pickr\\flatpickr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\flat-pickr\\flatpickr.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\form-validation-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-validation-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\form-wizard\\form-wizard-five.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-wizard\\form-wizard-five.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\form-wizard\\form-wizard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-wizard\\form-wizard.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\form-wizard\\image-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-wizard\\image-upload.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\form-wizard\\verification.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-wizard\\verification.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\general-widget.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\general-widget.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\header-slick.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\header-slick.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\height-equal.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\height-equal.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\hide-on-scroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\hide-on-scroll.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\feather-icon\\feather-icon-clipart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\feather-icon\\feather-icon-clipart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\feather-icon\\feather-icon.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\feather-icon\\feather-icon.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\feather-icon\\feather.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\feather-icon\\feather.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\flag-icon-clipart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\flag-icon-clipart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\icon-clipart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\icon-clipart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\icons-notify.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\icons-notify.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\icons\\whether-icon-clipart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\icons\\whether-icon-clipart.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\image-cropper\\cropper-main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\image-cropper\\cropper-main.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\image-cropper\\cropper.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\image-cropper\\cropper.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\internationalization\\language-picker.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\internationalization\\language-picker.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jkanban\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jkanban\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jkanban\\jkanban.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jkanban\\jkanban.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jquery.ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.ui.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\js-datatables\\simple-datatables@latest.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\js-datatables\\simple-datatables@latest.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jsgrid\\griddata.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jsgrid\\griddata.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jsgrid\\jsgrid.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jsgrid\\jsgrid.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\jsgrid\\jsgrid.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jsgrid\\jsgrid.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\landing-slick.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\landing-slick.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\landing.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\landing.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\landing_sticky.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\landing_sticky.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\letter-box\\custom-mail-pagination.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\letter-box\\custom-mail-pagination.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\letter-box\\custom-usermail.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\letter-box\\custom-usermail.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\map-js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\map-js\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\map-js\\leaflet.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\map-js\\leaflet.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\map-js\\map-custom2.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\map-js\\map-custom2.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\masonry-gallery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\masonry-gallery.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\modal-animated.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modal-animated.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\modalpage\\validation-modal.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modalpage\\validation-modal.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\notify\\custom-notify.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\notify\\custom-notify.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\notify\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\notify\\index.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\owlcarousel\\owl-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\owlcarousel\\owl-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\photoswipe\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\photoswipe\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\photoswipe\\photoswipe.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\photoswipe\\photoswipe.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\photoswipe\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\photoswipe\\photoswipe.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\popover-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\popover-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\print.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\print.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\prism\\prism.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\prism\\prism.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\product-tab.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\product-tab.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\range-slider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\range-slider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\range-slider\\rSlider.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\range-slider\\rSlider.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\range-slider\\rangeslider-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\range-slider\\rangeslider-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\rangeslider\\rangeslider.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\rangeslider\\rangeslider.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\rating\\emoji_rating.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\rating\\emoji_rating.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\rating\\jquery.barrating.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\rating\\jquery.barrating.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\rating\\rating-script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\rating\\rating-script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\scrollable\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\scrollable\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\scrollable\\scrollable-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\scrollable\\scrollable-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\scrollbar\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\scrollbar\\custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\scrollbar\\simplebar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\scrollbar\\simplebar.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\custom-inputsearch.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\custom-inputsearch.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\intltelinput.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\intltelinput.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\select2-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\select2-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\select3-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\select3-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\tagify.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\tagify.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\tagify.polyfills.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\tagify.polyfills.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\select2\\telephone-input.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2\\telephone-input.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\sidebar-menu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\sidebar-menu.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\sidebar-pin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\sidebar-pin.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\support-ticket-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\support-ticket-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\sweet-alert\\app.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\sweet-alert\\app.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\sweet-alert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\sweet-alert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\theme-customizer\\customizer.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\theme-customizer\\customizer.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\timeline\\timeline-v-1\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\timeline\\timeline-v-1\\main.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\todo\\todo.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\tooltip-init.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tooltip-init.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\touchspin\\input-groups.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\touchspin\\input-groups.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\touchspin\\touchspin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\touchspin\\touchspin.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\touchspin\\vendors.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\touchspin\\vendors.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\touchspin_2\\custom_touchspin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\touchspin_2\\custom_touchspin.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\tour\\intro-init.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tour\\intro-init.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\tour\\intro.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tour\\intro.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\tree\\jstree.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tree\\jstree.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\tree\\tree.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tree\\tree.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\tree\\tree.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tree\\tree.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\typeahead-search\\handlebars.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\typeahead-search\\handlebars.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\typeahead-search\\typeahead-custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\typeahead-search\\typeahead-custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\typeahead\\handlebars.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\typeahead\\handlebars.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\typeahead\\typeahead.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\typeahead\\typeahead.bundle.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\typeahead\\typeahead.custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\typeahead\\typeahead.custom.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map-vector.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map-vector.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-asia-mill.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-asia-mill.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-chicago-mill-en.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vector-map\\map\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
       "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css"
     },
@@ -675,6 +3511,10 @@
     {
       "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\assets\\js\\myCode.js",
+      "PackagePath": "staticwebassets\\assets\\js\\myCode.js"
     },
     {
       "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\assets\\js\\owl.carousel.min.js",

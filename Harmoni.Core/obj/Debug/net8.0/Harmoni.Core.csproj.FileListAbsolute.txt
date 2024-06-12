@@ -1,0 +1,13 @@
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\bin\Debug\net8.0\Harmoni.Core.deps.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\bin\Debug\net8.0\Harmoni.Core.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\bin\Debug\net8.0\Harmoni.Core.pdb
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.sourcelink.json
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\refint\Harmoni.Core.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.pdb
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\ref\Harmoni.Core.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.Core\obj\Debug\net8.0\Harmoni.Core.csproj.AssemblyReference.cache

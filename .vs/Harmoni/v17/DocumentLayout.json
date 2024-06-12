@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\services\\abstracts\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\services\\abstracts\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\services\\concretes\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\services\\concretes\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\dtos\\settingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\dtos\\settingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F55E01-AE63-41C3-8817-9C86133E87A6}|Harmoni.Data\\Harmoni.Data.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.data\\repconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F55E01-AE63-41C3-8817-9C86133E87A6}|Harmoni.Data\\Harmoni.Data.csproj|solutionrelative:harmoni.data\\repconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7D443D-1633-4499-8F9E-AA32F588BFE1}|Harmoni.Core\\Harmoni.Core.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.core\\repabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7D443D-1633-4499-8F9E-AA32F588BFE1}|Harmoni.Core\\Harmoni.Core.csproj|solutionrelative:harmoni.core\\repabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\dtos\\settingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\dtos\\settingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F55E01-AE63-41C3-8817-9C86133E87A6}|Harmoni.Data\\Harmoni.Data.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.data\\repconcretes\\settingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F55E01-AE63-41C3-8817-9C86133E87A6}|Harmoni.Data\\Harmoni.Data.csproj|solutionrelative:harmoni.data\\repconcretes\\settingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\setting\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\setting\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Data\\RepConcretes\\SettingRepository.cs",
+              "RelativeDocumentMoniker": "Harmoni.Data\\RepConcretes\\SettingRepository.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Data\\RepConcretes\\SettingRepository.cs",
+              "RelativeToolTip": "Harmoni.Data\\RepConcretes\\SettingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:15:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Core\\RepAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Harmoni.Core\\RepAbstracts\\IGenericRepository.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Core\\RepAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Harmoni.Core\\RepAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:11:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Data\\RepConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Harmoni.Data\\RepConcretes\\GenericRepository.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Data\\RepConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Harmoni.Data\\RepConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:11:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Setting\\Update.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\Setting\\Update.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Setting\\Update.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\Setting\\Update.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:57:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISettingService.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Abstracts\\ISettingService.cs",
+              "RelativeDocumentMoniker": "Harmoni.Business\\Services\\Abstracts\\ISettingService.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Abstracts\\ISettingService.cs",
+              "RelativeToolTip": "Harmoni.Business\\Services\\Abstracts\\ISettingService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:55:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\SettingUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\DTOs\\SettingUpdateDTO.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\SettingUpdateDTO.cs",
+              "RelativeToolTip": "Harmoni.UI\\DTOs\\SettingUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:53:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingService.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Concretes\\SettingService.cs",
+              "RelativeDocumentMoniker": "Harmoni.Business\\Services\\Concretes\\SettingService.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Concretes\\SettingService.cs",
+              "RelativeToolTip": "Harmoni.Business\\Services\\Concretes\\SettingService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:47:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\SettingUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Harmoni.Business\\DTOs\\SettingUpdateDTO.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\SettingUpdateDTO.cs",
+              "RelativeToolTip": "Harmoni.Business\\DTOs\\SettingUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:46:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Harmoni.API\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Harmoni.API\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:44:26.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:44:00.329Z",
+              "EditorCaption": ""
             }
           ]
         }
