@@ -8,7 +8,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using X.PagedList;
 
 namespace Harmoni.Business.Services.Concretes
 {
@@ -82,6 +81,14 @@ namespace Harmoni.Business.Services.Concretes
             exsistSetting = _mapper.Map(updateDTO,exsistSetting);
 
             exsistSetting.UpdatedDate = DateTime.UtcNow.AddHours(4);
+            _settingRepository.Commit();
+        }
+        public void Recover(int id)
+        {
+            var exsistSetting = _settingRepository.Get(x => x.Id == id && x.IsDeleted == true);
+
+            exsistSetting.DeletedDate = null;
+            exsistSetting.IsDeleted = false;
             _settingRepository.Commit();
         }
 

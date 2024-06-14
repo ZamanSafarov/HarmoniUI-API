@@ -1,3 +1,7 @@
+
+
+using Harmoni.UI.Controllers;
+
 namespace Harmoni.UI
 {
     public class Program
@@ -9,7 +13,9 @@ namespace Harmoni.UI
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            var app = builder.Build();
+            builder.Services.AddScoped<HomeController>();
+
+			var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

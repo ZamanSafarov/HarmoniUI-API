@@ -8,5 +8,13 @@ namespace Harmoni.UI.Controllers
 		{
 			return View();
 		}
+		public IActionResult Detail()
+		{
+            return View();
+        }
+		public IActionResult Booking()
+		{
+			return View();
+		}
 	}
 }

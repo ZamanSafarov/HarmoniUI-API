@@ -1,5 +1,8 @@
 ﻿@using Harmoni.UI.DTOs
-@model IEnumerable<SettingGetDTO>
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+
+@model IPagedList<SettingGetDTO>
 <div class="page-body">
     <!-- Container-fluid starts-->
     <div class="container-fluid basic_table">
@@ -11,14 +14,15 @@
                     </div>
                     <div>
                         <a asp-action="create" asp-controller="Setting" type="button" class="btn btn-outline-success">Create</a>
+                        <a asp-action="Archive" asp-controller="Setting" type="button" class="btn btn-outline-dark">View Archives</a>
                     </div>
                     <div class="table-responsive custom-scrollbar">
                         <table class="table">
                             <thead>
                                 <tr class="border-bottom-primary">
-                                    <th scope="col">@Html.DisplayNameFor(model => model.Id)</th>
-                                    <th scope="col">@Html.DisplayNameFor(model => model.Key)</th>
-                                    <th scope="col">@Html.DisplayNameFor(model => model.Value)</th>
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().Id)</th>
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().Value)</th>
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().Key)</th>
                                     <th scope="col">Actions</th>
                                 </tr>
                             </thead>
@@ -44,4 +48,7 @@
         </div>
     </div>
     <!-- Container-fluid Ends-->
+    @Html.Partial("_CustomPager", Model)
+
+       @*  @Html.PagedListPager(Model, page => Url.Action("Index", new { pageIndex = page, pageSize = Model.PageSize })) *@
 </div>

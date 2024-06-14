@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using X.PagedList;
 
 namespace Harmoni.Business.Services.Abstracts
 {
@@ -15,6 +14,7 @@ namespace Harmoni.Business.Services.Abstracts
         void HardDelete(int id);
         void Add(SettingCreateDTO settingDTO);
         void Update(int id,SettingUpdateDTO updateDTO);
+        void Recover(int id);
         SettingGetDTO GetSetting(Func<Setting, bool>? func = null);
         List<SettingGetDTO> GetAllSetting(Func<Setting, bool>? func = null);
 

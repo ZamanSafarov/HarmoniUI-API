@@ -135,7 +135,7 @@
                 </li>
             
                 <li class="sidebar-list">
-                    <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title link-nav" asp-action="index" asp-controller="faq">
+                    <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title link-nav" href="#">
                         <svg class="stroke-icon">
                             <use href="https://admin.pixelstrap.net/riho/assets/svg/icon-sprite.svg#stroke-faq"></use>
                         </svg>
@@ -143,6 +143,10 @@
                             <use href="https://admin.pixelstrap.net/riho/assets/svg/icon-sprite.svg#fill-faq"></use>
                         </svg><span>FAQ</span>
                     </a>
+                    <ul class="sidebar-submenu">
+                        <li><a asp-action="index" asp-controller="faq">FAQs</a></li>
+                        <li><a asp-action="index" asp-controller="faqcontent">FAQ Contents</a></li>
+                    </ul>
                 </li>
             </ul>
             <div class="right-arrow" id="right-arrow"><i data-feather="arrow-right"></i></div>

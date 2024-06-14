@@ -1,4 +1,6 @@
 ﻿using Harmoni.Core.Entities;
+using Harmoni.Data.Configurations;
+using Harmoni.Data.RepConcretes;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,5 +16,13 @@ namespace Harmoni.Data.DAL
         {
         }
         public DbSet<Setting> Settings { get; set; }
-    }
+        public DbSet<FAQContent> FAQContents { get; set; }
+        public DbSet<FAQ> FAQs { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+		{
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(SettingConfiguration).Assembly);
+			base.OnModelCreating(modelBuilder);
+		}
+	}
 }

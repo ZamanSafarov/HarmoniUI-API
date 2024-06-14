@@ -49,9 +49,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "X.PagedList.Mvc.Core": {
+            "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[8.4.7, )"
+              "version": "[11.3.0, )"
             }
           },
           "imports": [

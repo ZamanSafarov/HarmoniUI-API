@@ -1,4 +1,6 @@
 
+using FluentValidation.AspNetCore;
+using Harmoni.Business.DTOs;
 using Harmoni.Business.Mapping;
 using Harmoni.Business.Services.Abstracts;
 using Harmoni.Business.Services.Concretes;
@@ -23,14 +25,23 @@ namespace Harmoni.API
 			//		policy.WithOrigins();
 			//	});
 			//});
-			builder.Services.AddControllers();
+			builder.Services.AddControllers().AddNewtonsoftJson(options =>
+            {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            }).AddFluentValidation(opt => opt.RegisterValidatorsFromAssembly(typeof(SettingGetDTOValidator).Assembly)) ;
+
 			builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cString")));
+
 			builder.Services.AddAutoMapper(typeof(MapProfile));
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<ISettingRepository, SettingRepository>();
             builder.Services.AddScoped<ISettingService,SettingService>();
+            builder.Services.AddScoped<IFAQContentRepository, FAQContentRepository>();
+            builder.Services.AddScoped<IFAQRepository, FAQRepository>();
+            builder.Services.AddScoped<IFAQContentService, FAQContentService>();
+            builder.Services.AddScoped<IFAQService, FAQService>();
             var app = builder.Build();
 
 			// Configure the HTTP request pipeline.

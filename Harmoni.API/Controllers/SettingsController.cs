@@ -25,8 +25,14 @@ namespace Harmoni.API.Controllers
         {
             return Ok(_service.GetAllSetting(x => x.IsDeleted == false));
         }
-       
-        [HttpPost]
+
+		[HttpGet("GetAllArchive")]
+		public IActionResult GetAllArchive()
+		{
+			return Ok(_service.GetAllSetting(x => x.IsDeleted == true));
+		}
+
+		[HttpPost]
         public IActionResult Create(SettingCreateDTO createDTO)
         {
             _service.Add(createDTO);
@@ -54,6 +60,13 @@ namespace Harmoni.API.Controllers
 			_service.Update(id,updateDTO);
 			return NoContent();
 		}
+
+        [HttpPut("Recover/{id}")]
+        public IActionResult Recover(int id)
+        {
+            _service.Recover(id);
+            return NoContent();
+        }
 
     }
 }
