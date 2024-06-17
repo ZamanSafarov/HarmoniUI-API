@@ -263,3 +263,5 @@ D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\obj\Debug\net8.0\Harmoni.UI.MvcApp
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\JetBrains.Annotations.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\X.PagedList.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

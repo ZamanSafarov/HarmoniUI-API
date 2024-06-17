@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T5DCkQ1TbuA8x6qik/FqA9D+Xs02VCh5sMsGq0kuAZ0=",
+  "Hash": "GOwFmA2hFzZBLL120PIw3CQJ4dQ0vjp0r2wTHqcDQ80=",
   "Source": "Harmoni.UI",
   "BasePath": "_content/Harmoni.UI",
   "Mode": "Default",
@@ -16811,6 +16811,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\style-switcher.js"
+    },
+    {
+      "Identity": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\uploads\\speakers\\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg",
+      "SourceId": "Harmoni.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\",
+      "BasePath": "_content/Harmoni.UI",
+      "RelativePath": "uploads/speakers/archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\speakers\\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg"
+    },
+    {
+      "Identity": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\uploads\\speakers\\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png",
+      "SourceId": "Harmoni.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\",
+      "BasePath": "_content/Harmoni.UI",
+      "RelativePath": "uploads/speakers/speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\speakers\\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png"
     }
   ]
 }

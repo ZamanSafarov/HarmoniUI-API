@@ -12,10 +12,17 @@ namespace Harmoni.UI
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+           
             builder.Services.AddScoped<HomeController>();
+            builder.Services.AddScoped<HttpClient>();
 
 			var app = builder.Build();
+
+            var env = app.Services.GetRequiredService<IWebHostEnvironment>();
+            var webRootPath = env.WebRootPath;
+
+            // Set the WebRootPath as an environment variable.
+            Environment.SetEnvironmentVariable("WebRootPath", webRootPath);
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

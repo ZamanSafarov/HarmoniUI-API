@@ -44,10 +44,14 @@
                                 <div class="col-md-12">
                                     <label class="form-label" asp-for="Question">Question</label>
                                     <input class="form-control" asp-for="Question" placeholder="Enter Question">
+                                    <span class="text-danger" asp-validation-for="Question"></span>
+
                                 </div>
                                 <div class="col-md-12">
                                     <label class="form-label" asp-for="Answer">Answer</label>
                                     <input class="form-control" asp-for="Answer" placeholder="Enter Answer">
+                                    <span class="text-danger" asp-validation-for="Answer"></span>
+
                                 </div>
                                 <div class="col-md-12">
                                     <label asp-for="FAQContentId">FAQ Content</label>
@@ -57,6 +61,8 @@
                                             <option value="@title.Id">@Model.FAQContent.Name</option>
                                         }
                                       </select>
+                                    <span class="text-danger" asp-validation-for="FAQContentId"></span>
+
                                 </div>
                                 <div class="col-12">
                                     <div class="form-check checkbox-checked">

@@ -41,9 +41,12 @@
                     <div class="card-body">
                         <div class="card-wrapper border rounded-3">
                             <form method="post" asp-action="Update" class="row g-3">
+                                <div class="text-danger">@ViewBag.Message</div>
                                 <div class="col-md-12">
-                                    <label class="form-label" asp-for="Name">Question</label>
-                                    <input class="form-control" asp-for="Name" placeholder="Enter Question">
+                                    <label class="form-label" asp-for="Name">Content</label>
+                                    <input class="form-control" asp-for="Name" placeholder="Enter Content">
+                                    <span class="text-danger" asp-validation-for="Name"></span>
+
                                 </div>
                                 <div class="col-12">
                                     <div class="form-check checkbox-checked">

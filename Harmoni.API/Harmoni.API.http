@@ -1,4 +1,4 @@
-@Harmoni.API_HostAddress = http://localhost:5077
+@Harmoni.API_HostAddress = https://localhost:7222
 
 GET {{Harmoni.API_HostAddress}}/weatherforecast/
 Accept: application/json

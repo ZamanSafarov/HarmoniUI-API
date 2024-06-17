@@ -18,6 +18,7 @@ namespace Harmoni.Data.DAL
         public DbSet<Setting> Settings { get; set; }
         public DbSet<FAQContent> FAQContents { get; set; }
         public DbSet<FAQ> FAQs { get; set; }
+        public DbSet<Speaker> Speakers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{

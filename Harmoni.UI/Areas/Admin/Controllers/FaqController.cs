@@ -35,7 +35,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             }
 
             HttpClient client = new HttpClient();
-            var response = await client.GetAsync($"https://localhost:7222/api/FAQ");
+            var response = await client.GetAsync($"https://localhost:7222/api/FAQs");
             response.EnsureSuccessStatusCode();
 
             var content = await response.Content.ReadAsStringAsync();
@@ -70,7 +70,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             }
 
             HttpClient client = new HttpClient();
-            var response = await client.GetAsync($"https://localhost:7222/api/FAQ/GetAllArchive");
+            var response = await client.GetAsync($"https://localhost:7222/api/FAQs/GetAllArchive");
             response.EnsureSuccessStatusCode();
 
             var content = await response.Content.ReadAsStringAsync();
@@ -85,21 +85,33 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         public async Task<IActionResult> Create()
         {
             HttpClient client = new HttpClient();
-            var response = await client.GetAsync($"https://localhost:7222/api/FAQContent");
+            var response = await client.GetAsync($"https://localhost:7222/api/FAQContents");
             response.EnsureSuccessStatusCode();
 
             var content = await response.Content.ReadAsStringAsync();
             var fAQContents = JsonConvert.DeserializeObject<List<FAQContentGetDTO>>(content);
+            if (fAQContents is null)
+            {
+                ViewBag.Message = "Please select Faq Conent or Create one!";
+            }
+            else
+            {
+                ViewBag.FAQContents = fAQContents;
+            }
+           
 
-            ViewBag.FAQContents = fAQContents;
             return View();
         }
         [HttpPost]
         public async Task<IActionResult> Create(FAQCreateDTO faqDTO)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
             HttpClient client = new HttpClient();
             var content = new StringContent(JsonConvert.SerializeObject(faqDTO), System.Text.Encoding.UTF8, "application/json");
-            var response = await client.PostAsync("https://localhost:7222/api/FAQ", content);
+            var response = await client.PostAsync("https://localhost:7222/api/FAQs", content);
             response.EnsureSuccessStatusCode();
 
             return RedirectToAction("Index");
@@ -107,7 +119,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         public async Task<IActionResult> HardDelete(int id)
         {
             HttpClient client = new HttpClient();
-            var result = await client.DeleteAsync($"https://localhost:7222/api/FAQ/hardDelete/{id}");
+            var result = await client.DeleteAsync($"https://localhost:7222/api/FAQs/hardDelete/{id}");
             if (result.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
@@ -121,7 +133,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             HttpClient client = new HttpClient();
-            var result = await client.DeleteAsync($"https://localhost:7222/api/FAQ/{id}");
+            var result = await client.DeleteAsync($"https://localhost:7222/api/FAQs/{id}");
             if (result.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
@@ -135,17 +147,17 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         public async Task<IActionResult> Recover(int id, EntityRecoverDTO recoverDTO)
         {
             HttpClient client = new HttpClient();
-            var result = await client.PutAsJsonAsync<EntityRecoverDTO>($"https://localhost:7222/api/FAQ/Recover/{id}", recoverDTO);
+            var result = await client.PutAsJsonAsync<EntityRecoverDTO>($"https://localhost:7222/api/FAQs/Recover/{id}", recoverDTO);
             return RedirectToAction("Index");
         }
         public async Task<IActionResult> Update(int id)
         {
 
             HttpClient client = new HttpClient();
-            var data = await client.GetFromJsonAsync<FAQUpdateDTO>($"https://localhost:7222/api/FAQ/{id}");
+            var data = await client.GetFromJsonAsync<FAQUpdateDTO>($"https://localhost:7222/api/FAQs/{id}");
 
 
-            var response = await client.GetAsync($"https://localhost:7222/api/FAQContent");
+            var response = await client.GetAsync($"https://localhost:7222/api/FAQContents");
             response.EnsureSuccessStatusCode();
 
             var content = await response.Content.ReadAsStringAsync();
@@ -158,8 +170,12 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Update(int id, FAQUpdateDTO updateDTO)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
             HttpClient client = new HttpClient();
-            var result = await client.PutAsJsonAsync<FAQUpdateDTO>($"https://localhost:7222/api/FAQ/{id}", updateDTO);
+            var result = await client.PutAsJsonAsync<FAQUpdateDTO>($"https://localhost:7222/api/FAQs/{id}", updateDTO);
             return RedirectToAction("Index");
         }
     }

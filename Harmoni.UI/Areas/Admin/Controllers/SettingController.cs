@@ -1,7 +1,9 @@
 ﻿using Harmoni.Business.Helpers;
 using Harmoni.UI.DTOs;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using X.PagedList;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Harmoni.UI.Areas.Admin.Controllers
 {
@@ -77,6 +79,10 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(SettingCreateDTO settingDto)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
             HttpClient client = new HttpClient();
             var result = await client.PostAsJsonAsync<SettingCreateDTO>("https://localhost:7222/api/Settings", settingDto);
             if (result.IsSuccessStatusCode)
@@ -99,7 +105,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             }
             else
             {
-                return BadRequest(result);
+                return NotFound();
             }
 
         }
@@ -113,7 +119,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             }
             else
             {
-                return BadRequest(result);
+                return NotFound();
             }
 
         }
@@ -121,24 +127,52 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         {
             HttpClient client = new HttpClient();
             var result = await client.PutAsJsonAsync<EntityRecoverDTO>($"https://localhost:7222/api/Settings/Recover/{id}", recoverDTO);
-            return RedirectToAction("Index");
+            if (result.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return NotFound();
+            }
         }
 		public async Task<IActionResult> Update(int id)
 		{
 
 			HttpClient client = new HttpClient();
-			var data = await client.GetFromJsonAsync<SettingUpdateDTO>($"https://localhost:7222/api/Settings/{id}");
+			var response = await client.GetAsync($"https://localhost:7222/api/Settings/{id}");
+          
+            var content = await response.Content.ReadAsStringAsync();
+            var setting = JsonConvert.DeserializeObject<SettingUpdateDTO>(content);
+            if (response.IsSuccessStatusCode)
+            {
+                return View(setting);
+            }
+            else
+            {
+                return NotFound();
+            }
 
-			return View(data);
-		}
+        }
 
 		[HttpPost]
 		public async Task<IActionResult> Update(int id, SettingUpdateDTO updateDTO)
 		{
-			HttpClient client = new HttpClient();
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            HttpClient client = new HttpClient();
 			var result = await client.PutAsJsonAsync<SettingUpdateDTO>($"https://localhost:7222/api/Settings/{id}", updateDTO);
-			return RedirectToAction("Index");
-		}
+            if (result.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return NotFound();
+            }
+        }
 
 	}
 }

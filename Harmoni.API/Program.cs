@@ -17,15 +17,18 @@ namespace Harmoni.API
 		{
 			var builder = WebApplication.CreateBuilder(args);
 
-			// Add services to the container.
-			//builder.Services.AddCors(options=>
-			//{
-			//	options.AddDefaultPolicy(policy =>
-			//	{
-			//		policy.WithOrigins();
-			//	});
-			//});
-			builder.Services.AddControllers().AddNewtonsoftJson(options =>
+            // Add services to the container.
+            //builder.Services.AddCors(options=>
+            //{
+            //	options.AddDefaultPolicy(policy =>
+            //	{
+            //		policy.WithOrigins();
+            //	});
+            //});
+
+            builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+
+            builder.Services.AddControllers().AddNewtonsoftJson(options =>
             {
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             }).AddFluentValidation(opt => opt.RegisterValidatorsFromAssembly(typeof(SettingGetDTOValidator).Assembly)) ;
@@ -36,16 +39,41 @@ namespace Harmoni.API
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 
+          
             builder.Services.AddScoped<ISettingRepository, SettingRepository>();
             builder.Services.AddScoped<ISettingService,SettingService>();
             builder.Services.AddScoped<IFAQContentRepository, FAQContentRepository>();
             builder.Services.AddScoped<IFAQRepository, FAQRepository>();
             builder.Services.AddScoped<IFAQContentService, FAQContentService>();
             builder.Services.AddScoped<IFAQService, FAQService>();
+            builder.Services.AddScoped<ISpeakerRepository, SpeakerRepository>();
+            builder.Services.AddScoped<ISpeakerService, SpeakerService>();
+
+
             var app = builder.Build();
 
-			// Configure the HTTP request pipeline.
-			if (app.Environment.IsDevelopment())
+
+            // Retrieve the configuration and set WebRootPath
+            var webRootPath = app.Configuration["WebRootPath"];
+
+            // Log the WebRootPath to ensure it is read correctly
+            Console.WriteLine($"WebRootPath: {webRootPath}"); // Add this line
+
+            if (!string.IsNullOrEmpty(webRootPath))
+            {
+                // Ensure the IWebHostEnvironment is configured with the WebRootPath
+                var env = app.Services.GetRequiredService<IWebHostEnvironment>();
+                env.WebRootPath = webRootPath;
+            }
+            else
+            {
+                // Log or handle the scenario where the WebRootPath configuration is not set
+                throw new Exception("WebRootPath configuration is not set.");
+            }
+
+
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
 			{
 				app.UseSwagger();
 				app.UseSwaggerUI();

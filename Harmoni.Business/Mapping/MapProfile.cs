@@ -26,7 +26,11 @@ namespace Harmoni.Business.Mapping
             CreateMap<FAQContentGetDTO, FAQContent>().ReverseMap();
             CreateMap<FAQContentUpdateDTO, FAQContent>().ReverseMap();
             CreateMap<EntityRecoverDTO, FAQContent>().ReverseMap();
+            CreateMap<SpeakerCreateDTO, Speaker>().ReverseMap();
+            CreateMap<SpeakerUpdateDTO, Speaker>().ReverseMap();
+            CreateMap<SpeakerGetDTO, Speaker>().ReverseMap();
+            CreateMap<EntityRecoverDTO, Speaker>().ReverseMap();
 
-        }
+		}
     }
 }

@@ -36,10 +36,14 @@
                         <div class="col-md-12">
                           <label class="form-label" asp-for="Key">Key</label>
                           <input class="form-control" asp-for="Key" placeholder="Enter Key">
+                                    <span class="text-danger" asp-validation-for="Key"></span>
+
                         </div>
                         <div class="col-md-12">
                                     <label class="form-label" asp-for="Value">Value</label>
                          <input class="form-control" asp-for="Value" placeholder="Enter Value">
+                                    <span class="text-danger" asp-validation-for="Value"></span>
+
                         </div>
                         <div class="col-12">
                           <div class="form-check checkbox-checked">

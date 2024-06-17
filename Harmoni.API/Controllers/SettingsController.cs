@@ -17,6 +17,10 @@ namespace Harmoni.API.Controllers
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
+            if (_service.GetSetting(x => x.Id == id && x.IsDeleted == false) is null)
+            {
+                return NotFound();
+            }
             return Ok(_service.GetSetting(x => x.Id == id && x.IsDeleted == false));
         }
 
@@ -43,6 +47,10 @@ namespace Harmoni.API.Controllers
         [Route("hardDelete/{id}")]
         public IActionResult HardDelete(int id)
         {
+            if (_service.GetSetting(x => x.Id == id && x.IsDeleted == false) is null)
+            {
+                return NotFound();
+            }
             _service.HardDelete(id);
             return NoContent();
         }
@@ -50,6 +58,10 @@ namespace Harmoni.API.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
+            if (_service.GetSetting(x => x.Id == id && x.IsDeleted == false) is null)
+            {
+                return NotFound();
+            }
             _service.SoftDelete(id);
             return NoContent();
         }
@@ -57,13 +69,21 @@ namespace Harmoni.API.Controllers
         [HttpPut("{id}")]
         public IActionResult Update(int id, SettingUpdateDTO updateDTO)
         {
-			_service.Update(id,updateDTO);
+            if (_service.GetSetting(x => x.Id == id && x.IsDeleted == false) is null)
+            {
+                return NotFound();
+            }
+            _service.Update(id,updateDTO);
 			return NoContent();
 		}
 
         [HttpPut("Recover/{id}")]
         public IActionResult Recover(int id)
         {
+            if (_service.GetSetting(x => x.Id == id && x.IsDeleted == true) is null)
+            {
+                return NotFound();
+            }
             _service.Recover(id);
             return NoContent();
         }

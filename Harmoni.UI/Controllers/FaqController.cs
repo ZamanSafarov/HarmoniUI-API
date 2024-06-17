@@ -10,7 +10,7 @@ namespace Harmoni.UI.Controllers
 		public async Task<IActionResult> Index()
 		{
             HttpClient client = new HttpClient();
-            var response = await client.GetAsync($"https://localhost:7222/api/FAQContent");
+            var response = await client.GetAsync($"https://localhost:7222/api/FAQContents");
             response.EnsureSuccessStatusCode();
 
             var content = await response.Content.ReadAsStringAsync();

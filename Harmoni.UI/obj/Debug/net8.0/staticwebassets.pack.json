@@ -3533,6 +3533,14 @@
       "PackagePath": "staticwebassets\\assets\\js\\style-switcher.js"
     },
     {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\uploads\\speakers\\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\speakers\\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\wwwroot\\uploads\\speakers\\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png",
+      "PackagePath": "staticwebassets\\uploads\\speakers\\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Harmoni.UI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

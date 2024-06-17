@@ -150,3 +150,4 @@ D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.API\bin\Debug\net8.0\Microsoft.AspNet
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.API\bin\Debug\net8.0\System.Net.Http.Formatting.dll

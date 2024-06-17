@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harmoni.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0763aeecd616b8082da0e610f370462d7e561d61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1950dba634667afdd53e3663e95b895df65fc2fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harmoni.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harmoni.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

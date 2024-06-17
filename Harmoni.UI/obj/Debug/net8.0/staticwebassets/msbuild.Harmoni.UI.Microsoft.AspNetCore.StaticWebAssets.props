@@ -14128,5 +14128,37 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Harmoni.UI.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/speakers/archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/speakers/speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>
