@@ -1,5 +1,5 @@
 ﻿
-using Harmoni.Business.Helpers;
+using Harmoni.UI.Helpers;
 using Harmoni.UI.DTOs;
 using Harmoni.UI.DTOs.FAQ;
 using Microsoft.AspNetCore.Mvc;

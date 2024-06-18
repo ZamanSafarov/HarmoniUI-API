@@ -1,4 +1,7 @@
-﻿@using Harmoni.Business.Helpers
+﻿@{
+    string actionName = ViewData["ActionName"] as string ?? "Index"; // Provide a default action name if none is passed
+}
+@using Harmoni.UI.Helpers
 @{
     string encryptedParams = EncryptionHelper.Encrypt($"{Model.PageNumber};{Model.PageSize}");
 }
@@ -8,7 +11,7 @@
         @if (Model.HasPreviousPage)
         {
             <li class="page-item">
-                <a class="page-link" href="@Url.Action("Index", new { encryptedParams = EncryptionHelper.Encrypt($"{Model.PageNumber - 1};{Model.PageSize}") })" aria-label="Previous">
+                <a class="page-link" href="@Url.Action(actionName, new { encryptedParams = EncryptionHelper.Encrypt($"{Model.PageNumber - 1};{Model.PageSize}") })" aria-label="Previous">
                     <span aria-hidden="true">&laquo;</span>
                 </a>
             </li>
@@ -33,7 +36,7 @@
             else
             {
                 <li class="page-item">
-                    <a class="page-link" href="@Url.Action("Index", new { encryptedParams = EncryptionHelper.Encrypt($"{i};{Model.PageSize}") })">@i</a>
+                    <a class="page-link" href="@Url.Action(actionName, new { encryptedParams = EncryptionHelper.Encrypt($"{i};{Model.PageSize}") })">@i</a>
                 </li>
             }
         }
@@ -41,7 +44,7 @@
         @if (Model.HasNextPage)
         {
             <li class="page-item">
-                <a class="page-link" href="@Url.Action("Index", new { encryptedParams = EncryptionHelper.Encrypt($"{Model.PageNumber + 1};{Model.PageSize}") })" aria-label="Next">
+                <a class="page-link" href="@Url.Action(actionName, new { encryptedParams = EncryptionHelper.Encrypt($"{Model.PageNumber + 1};{Model.PageSize}") })" aria-label="Next">
                     <span aria-hidden="true">&raquo;</span>
                 </a>
             </li>

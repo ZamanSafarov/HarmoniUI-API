@@ -3,64 +3,52 @@
   "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\about\\archiveaward.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\about\\archiveaward.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\shared\\components\\speaker\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\shared\\components\\speaker\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\about\\award.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\about\\award.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\viewcomponents\\speakerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\viewcomponents\\speakerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\controllers\\speakerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\controllers\\speakerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\dtos\\about\\advantageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\dtos\\about\\advantageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\speaker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\speaker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\shared\\_custompager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\shared\\_custompager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\about\\archiveadvantage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\about\\archiveadvantage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\dtos\\speaker\\speakercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\dtos\\speaker\\speakercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\about\\updateadvantage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\about\\updateadvantage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\dtos\\speaker\\speakerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\dtos\\speaker\\speakerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\dtos\\speaker\\speakerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\dtos\\speaker\\speakerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\dtos\\speaker\\speakergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\dtos\\speaker\\speakergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\about\\advantage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\about\\advantage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,202 +58,159 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFABAAAAAAAAAAAAAK8BAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:16:39.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchiveAward.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAward.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAward.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAward.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAward.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:13:57.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Award.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\Award.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\About\\Award.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\Award.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\About\\Award.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:13:48.169Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAMUBAAAAAAAAAAAAAJgGAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T16:09:15.345Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Controllers\\AboutController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Harmoni.UI\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:03:05.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "_CustomPager.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_CustomPager.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_CustomPager.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_CustomPager.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_CustomPager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:06:52.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Helpers\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Helpers\\EncryptionHelper.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Helpers\\EncryptionHelper.cs",
+              "RelativeToolTip": "Harmoni.UI\\Helpers\\EncryptionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:06:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdvantageUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\About\\AdvantageUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\DTOs\\About\\AdvantageUpdateDTO.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\About\\AdvantageUpdateDTO.cs",
+              "RelativeToolTip": "Harmoni.UI\\DTOs\\About\\AdvantageUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:06:12.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateAdvantage.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\UpdateAdvantage.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\About\\UpdateAdvantage.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\UpdateAdvantage.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\About\\UpdateAdvantage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:05:39.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArchiveAdvantage.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAdvantage.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAdvantage.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAdvantage.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\About\\ArchiveAdvantage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:05:38.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Advantage.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\Advantage.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\About\\Advantage.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\About\\Advantage.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\About\\Advantage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:05:26.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\ViewModels\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\ViewModels\\AboutViewModel.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\ViewModels\\AboutViewModel.cs",
+              "RelativeToolTip": "Harmoni.UI\\ViewModels\\AboutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:00:46.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Harmoni.UI\\Views\\About\\Index.cshtml",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Harmoni.UI\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAALUBAAAAAAAAAAAAAL4BAAADAAAA",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAK4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T16:06:47.665Z",
+              "WhenOpened": "2024-06-18T01:00:09.294Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Program.cs",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Program.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Program.cs",
-              "RelativeToolTip": "Harmoni.UI\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T16:06:11.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SpeakerViewComponent.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\ViewComponents\\SpeakerViewComponent.cs",
-              "RelativeDocumentMoniker": "Harmoni.UI\\ViewComponents\\SpeakerViewComponent.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\ViewComponents\\SpeakerViewComponent.cs",
-              "RelativeToolTip": "Harmoni.UI\\ViewComponents\\SpeakerViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T16:03:06.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T16:00:47.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Speaker\\Index.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Speaker\\Index.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Speaker\\Index.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Speaker\\Index.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvyoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T15:59:53.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\Components\\Speaker\\Default.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Shared\\Components\\Speaker\\Default.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\Components\\Speaker\\Default.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Shared\\Components\\Speaker\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T15:58:14.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T15:30:06.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SpeakersController.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\SpeakersController.cs",
-              "RelativeDocumentMoniker": "Harmoni.API\\Controllers\\SpeakersController.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\SpeakersController.cs",
-              "RelativeToolTip": "Harmoni.API\\Controllers\\SpeakersController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:52:24.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SpeakerController.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Controllers\\SpeakerController.cs",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Controllers\\SpeakerController.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Controllers\\SpeakerController.cs",
-              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Controllers\\SpeakerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:56:29.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T15:59:11.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SpeakerUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Harmoni.Business\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "RelativeToolTip": "Harmoni.Business\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:58:17.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SpeakerUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Harmoni.UI\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "RelativeToolTip": "Harmoni.UI\\DTOs\\Speaker\\SpeakerUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:57:36.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SpeakerCreateDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\Speaker\\SpeakerCreateDTO.cs",
-              "RelativeDocumentMoniker": "Harmoni.Business\\DTOs\\Speaker\\SpeakerCreateDTO.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\Speaker\\SpeakerCreateDTO.cs",
-              "RelativeToolTip": "Harmoni.Business\\DTOs\\Speaker\\SpeakerCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:58:23.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SpeakerGetDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\Speaker\\SpeakerGetDTO.cs",
-              "RelativeDocumentMoniker": "Harmoni.Business\\DTOs\\Speaker\\SpeakerGetDTO.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\DTOs\\Speaker\\SpeakerGetDTO.cs",
-              "RelativeToolTip": "Harmoni.Business\\DTOs\\Speaker\\SpeakerGetDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:58:23.193Z"
             }
           ]
         }

@@ -1,7 +1,9 @@
 ﻿@using Harmoni.UI.DTOs
 @using X.PagedList
 @using X.PagedList.Mvc.Core
-
+@{
+    ViewData["ActionName"] = "Archive";
+}
 @model IPagedList<SettingGetDTO>
 <div class="page-body">
     <!-- Container-fluid starts-->

@@ -1,4 +1,4 @@
-﻿using Harmoni.Business.Helpers;
+﻿using Harmoni.UI.Helpers;
 using Harmoni.Ui.DTOs;
 using Harmoni.UI.DTOs;
 using Harmoni.UI.DTOs.FAQ;

@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Harmoni.Business.Helpers
+namespace Harmoni.UI.Helpers
 {
     public static class EncryptionHelper
     {

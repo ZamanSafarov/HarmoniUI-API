@@ -41,6 +41,8 @@
     <link id="color" rel="stylesheet" href="~/admin/assets/css/color-1.css" media="screen">
     <!-- Responsive css-->
     <link rel="stylesheet" type="text/css" href="~/admin/assets/css/responsive.css">
+    @RenderSection("addcss", required: false)
+
 </head>
 <body>
     <!-- loader starts-->
@@ -449,6 +451,8 @@
 <!-- Theme js-->
 <script src="~/admin/assets/js/script.js"></script>
     <script src="~/admin/assets/js/theme-customizer/customizer.js"></script>
+    @RenderSection("addjs", required: false)
+
   </body>
 
 <!-- Mirrored from admin.pixelstrap.net/riho/template/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Jun 2024 23:18:58 GMT -->

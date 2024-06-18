@@ -90,7 +90,7 @@
                     </a>
                 </li>
                 <li class="sidebar-list">
-                    <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title" asp-action="index" asp-controller="about">
+                    <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title"href="#">
                         <svg class="stroke-icon">
                             <use href="https://admin.pixelstrap.net/riho/assets/svg/icon-sprite.svg#stroke-blog"></use>
                         </svg>
@@ -98,6 +98,10 @@
                             <use href="https://admin.pixelstrap.net/riho/assets/svg/icon-sprite.svg#fill-blog"></use>
                         </svg><span>About Us</span>
                     </a>
+                    <ul class="sidebar-submenu">
+                        <li><a asp-action="award" asp-controller="about">About Awards</a></li>
+                        <li><a asp-action="advantage" asp-controller="about">About Advantages</a></li>
+                    </ul>
                 </li>
                 <li class="sidebar-list">
                     <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title" asp-action="index" asp-controller="speaker">

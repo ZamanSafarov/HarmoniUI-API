@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Harmoni.Business.DTOs;
+using Harmoni.Business.DTOs.About;
 using Harmoni.Business.DTOs.FAQ;
 using Harmoni.Core.Entities;
 using System;
@@ -30,7 +31,15 @@ namespace Harmoni.Business.Mapping
             CreateMap<SpeakerUpdateDTO, Speaker>().ReverseMap();
             CreateMap<SpeakerGetDTO, Speaker>().ReverseMap();
             CreateMap<EntityRecoverDTO, Speaker>().ReverseMap();
+            CreateMap<AwardCreateDTO, Award>().ReverseMap();
+            CreateMap<AwardUpdateDTO, Award>().ReverseMap();
+            CreateMap<AwardGetDTO, Award>().ReverseMap();
+            CreateMap<EntityRecoverDTO, Award>().ReverseMap();
+            CreateMap<AdvantageCreateDTO, Advantage>().ReverseMap();
+            CreateMap<AdvantageUpdateDTO, Advantage>().ReverseMap();
+            CreateMap<AdvantageGetDTO, Advantage>().ReverseMap();
+            CreateMap<EntityRecoverDTO, Advantage>().ReverseMap();
 
-		}
+        }
     }
 }

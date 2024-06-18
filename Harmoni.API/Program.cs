@@ -8,6 +8,8 @@ using Harmoni.Core.RepAbstracts;
 using Harmoni.Data.DAL;
 using Harmoni.Data.RepConcretes;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
+using System.Text.Json;
 
 namespace Harmoni.API
 {
@@ -31,7 +33,11 @@ namespace Harmoni.API
             builder.Services.AddControllers().AddNewtonsoftJson(options =>
             {
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
-            }).AddFluentValidation(opt => opt.RegisterValidatorsFromAssembly(typeof(SettingGetDTOValidator).Assembly)) ;
+            }).AddFluentValidation(opt => opt.RegisterValidatorsFromAssembly(typeof(SettingGetDTOValidator).Assembly)).AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+                options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
+            }); ;
 
 			builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cString")));
 
@@ -48,6 +54,10 @@ namespace Harmoni.API
             builder.Services.AddScoped<IFAQService, FAQService>();
             builder.Services.AddScoped<ISpeakerRepository, SpeakerRepository>();
             builder.Services.AddScoped<ISpeakerService, SpeakerService>();
+            builder.Services.AddScoped<IAwardRepository, AwardRepository>();
+            builder.Services.AddScoped<IAwardService, AwardService>();
+            builder.Services.AddScoped<IAdvantageRepository, AdvantageRepository>();
+            builder.Services.AddScoped<IAdvantageService, AdvantageService>();
 
 
             var app = builder.Build();

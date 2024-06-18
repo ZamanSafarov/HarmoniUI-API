@@ -1,4 +1,4 @@
-﻿using Harmoni.Business.Helpers;
+﻿using Harmoni.UI.Helpers;
 using Harmoni.UI.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -66,12 +66,6 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             var query = data.AsQueryable();
             return View(await query.ToPagedListAsync(pageIndex, pageSize));
         }
-        //public async Task<IActionResult> Index(int pageSize =1 ,int pageIndex =2)
-        //      {
-        //          HttpClient client = new HttpClient();
-        //          var data = await client.GetFromJsonAsync<List<SettingGetDTO>>($"https://localhost:7222/api/Settings");
-        //          return View(data);
-        //      }
         public IActionResult Create()
         {
             return View();
