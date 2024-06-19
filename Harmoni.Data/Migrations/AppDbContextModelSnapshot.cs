@@ -62,7 +62,7 @@ namespace Harmoni.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Advantage");
+                    b.ToTable("Advantage", (string)null);
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.Award", b =>
@@ -104,7 +104,7 @@ namespace Harmoni.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Awards");
+                    b.ToTable("Awards", (string)null);
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.FAQ", b =>
@@ -148,7 +148,7 @@ namespace Harmoni.Data.Migrations
 
                     b.HasIndex("FAQContentId");
 
-                    b.ToTable("FAQs");
+                    b.ToTable("FAQs", (string)null);
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.FAQContent", b =>
@@ -183,7 +183,53 @@ namespace Harmoni.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("FAQContents");
+                    b.ToTable("FAQContents", (string)null);
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.Gallery", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DeletedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DeletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("FestivalName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Url")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Galleries", (string)null);
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.Setting", b =>
@@ -224,7 +270,7 @@ namespace Harmoni.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Settings");
+                    b.ToTable("Settings", (string)null);
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.Speaker", b =>
@@ -281,7 +327,7 @@ namespace Harmoni.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Speakers");
+                    b.ToTable("Speakers", (string)null);
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.FAQ", b =>

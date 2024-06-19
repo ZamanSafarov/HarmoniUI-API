@@ -1,4 +1,7 @@
-﻿<!-- breadcrumb-section - start
+﻿@using Harmoni.UI.DTOs.Gallery
+@model IEnumerable<GalleryGetDTO>
+
+<!-- breadcrumb-section - start
 ================================================== -->
 <section id="breadcrumb-section" class="breadcrumb-section clearfix">
 	<div class="jarallax" style="background-image: url(../assets/images/breadcrumb/0.breadcrumb-bg.jpg);">
@@ -30,123 +33,60 @@
 </section>
 <!-- breadcrumb-section - end
 ================================================== -->
-<!-- event-gallery-section - start
-================================================== -->
-<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
-	<div class="container">
 
+
+
+
+
+ <section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+	<div class="container">
 		<div class="button-group filters-button-group mb-30">
-			<button class="button is-checked" data-filter="*">
+			<button class="button is-checked" data-filter="all">
 				<i class="fas fa-star"></i>
 				<strong>all</strong> gallery
 			</button>
-			<button class="button" data-filter=".video-gallery">
+			<button class="button" data-filter="video">
 				<i class="fas fa-play-circle"></i>
 				<strong>video</strong> gallery
 			</button>
-			<button class="button" data-filter=".photo-gallery">
+			<button class="button" data-filter="photo">
 				<i class="far fa-image"></i>
 				<strong>photo</strong> gallery
 			</button>
 		</div>
 
-		<div class="grid zoom-gallery clearfix mb-80" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
-			<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
-				<a class="popup-link" href="~/assets/images/gallery/1.image.jpg">
-					<img src="~/assets/images/gallery/1.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>John Doe Wedding day</h3>
-					<span>Wedding Party, 24 June 2016</span>
-				</div>
-			</div>
-			<div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
-				<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-					<img src="~/assets/images/gallery/2.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>Business Conference in Dubai</h3>
-					<span>Food Festival, 24 June 2016</span>
-				</div>
-			</div>
-			<div class="grid-item photo-gallery " data-category="photo-gallery">
-				<a class="popup-link" href="~/assets/images/gallery/3.image.jpg">
-					<img src="~/assets/images/gallery/3.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>Envato Author Fun Hiking</h3>
-					<span>Food Festival, 24 June 2016</span>
-				</div>
-			</div>
-
-			<div class="grid-item photo-gallery " data-category="photo-gallery">
-				<a class="popup-link" href="~/assets/images/gallery/4.image.jpg">
-					<img src="~/assets/images/gallery/4.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>John Doe Wedding day</h3>
-					<span>Wedding Party, 24 June 2016</span>
-				</div>
-			</div>
-			<div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
-				<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-					<img src="~/assets/images/gallery/5.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>New Year Celebration</h3>
-					<span>Food Festival, 24 June 2016</span>
-				</div>
-			</div>
-
-			<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
-				<a class="popup-link" href="~/assets/images/gallery/6.image.jpg">
-					<img src="~/assets/images/gallery/6.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>John Doe Wedding day</h3>
-					<span>Wedding Party, 24 June 2016</span>
-				</div>
-			</div>
-			<div class="grid-item video-gallery " data-category="video-gallery">
-				<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-					<img src="~/assets/images/gallery/7.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>New Year Celebration</h3>
-					<span>Food Festival, 24 June 2016</span>
-				</div>
-			</div>
-			<div class="grid-item photo-gallery " data-category="photo-gallery">
-				<a class="popup-link" href="~/assets/images/gallery/8.image.jpg">
-					<img src="~/assets/images/gallery/8.image.jpg" alt="Image_not_found">
-				</a>
-				<div class="item-content">
-					<h3>Envato Author Fun Hiking</h3>
-					<span>Food Festival, 24 June 2016</span>
-				</div>
-			</div>
+		<div class="grid zoom-gallery clearfix mb-80">
+			<!-- Gallery items will be loaded here -->
 		</div>
 
 		<div class="pagination ul-li clearfix">
 			<ul>
 				<li class="page-item prev-item">
-					<a class="page-link" href="#">Prev</a>
+					<a class="page-link" href="#" data-page="1">Prev</a>
 				</li>
-				<li class="page-item"><a class="page-link" href="#">01</a></li>
-				<li class="page-item active"><a class="page-link" href="#">02</a></li>
-				<li class="page-item"><a class="page-link" href="#">03</a></li>
-				<li class="page-item"><a class="page-link" href="#">04</a></li>
-				<li class="page-item"><a class="page-link" href="#">05</a></li>
+				<li class="page-item active"><a class="page-link" href="#" data-page="1">01</a></li>
+				<li class="page-item"><a class="page-link" href="#" data-page="2">02</a></li>
+				<li class="page-item"><a class="page-link" href="#" data-page="3">03</a></li>
+				<li class="page-item"><a class="page-link" href="#" data-page="4">04</a></li>
+				<li class="page-item"><a class="page-link" href="#" data-page="5">05</a></li>
 				<li class="page-item next-item">
-					<a class="page-link" href="#">Next</a>
+					<a class="page-link" href="#" data-page="2">Next</a>
 				</li>
 			</ul>
 		</div>
-
 	</div>
 </section>
-<!-- event-gallery-section - end
-================================================== -->
+
+
+
+
+
+
+
+
+
+
+
 <!-- special-offer-section - start
 ================================================== -->
 <section id="special-offer-section" class="special-offer-section clearfix" style="background-image: url(../assets/images/special-offer-bg.png);">
@@ -176,3 +116,84 @@
 </section>
 <!-- special-offer-section - end
 ================================================== -->
+@section addjs {
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			loadGalleryItems();
+
+			$('.filters-button-group button').on('click', function () {
+				var filter = $(this).data('filter');
+				loadGalleryItems(1, filter);
+				$('.filters-button-group button').removeClass('is-checked');
+				$(this).addClass('is-checked');
+			});
+
+			$(document).on('click', '.pagination a', function (e) {
+				e.preventDefault();
+				var page = $(this).data('page');
+				var filter = $('.filters-button-group button.is-checked').data('filter');
+				loadGalleryItems(page, filter);
+			});
+
+			function loadGalleryItems(page = 1, filter = 'all') {
+				$.get('@Url.Action("GetGalleryItems", "Gallery")', { page: page, type: filter }, function (data) {
+					var gallery = $('.grid');
+					gallery.empty();
+					$.each(data, function (index, item) {
+						var imageUrl = item.type === "video" ? `	<div class="grid-item video-gallery" ${item.type}-gallery" data-category="${item.type}-gallery">
+
+														<video style="width: 100%;height: 100%;" controls="controls">
+																<source src="/uploads/gallery/video/${item.url}"  type="video/mp4" />
+														</video>
+
+														<div class="item-content">
+															<h3>${item.title}</h3>
+															<span>${item.festivalName}, ${item.date}</span>
+														</div>
+													</div>` : `<div class="grid-item photo-gallery" ${item.type}-gallery" data-category="${item.type}-gallery">
+
+																		<a class="popup-youtube" href="/uploads/gallery/photo/${item.url}">
+														<img src="/uploads/gallery/photo/${item.url}" alt="Image_not_found">
+																</a>
+
+																<div class="item-content">
+																	<h3>${item.title}</h3>
+																	<span>${item.festivalName}, ${item.date}</span>
+																</div>
+													</div>`;
+
+						var galleryItem = `${imageUrl}`;
+						gallery.append(galleryItem);
+					});
+					updatePagination(page);
+				});
+			}
+
+			function updatePagination(currentPage) {
+				var pagination = $('.pagination ul');
+				pagination.empty();
+
+				var prevPage = currentPage > 1 ? currentPage - 1 : 1;
+				var nextPage = currentPage + 1;
+
+				pagination.append(`<li class="page-item prev-item"><a class="page-link" href="#" data-page="${prevPage}">Prev</a></li>`);
+				for (var i = 1; i <= 2; i++) {
+					var activeClass = i === currentPage ? 'active' : '';
+					pagination.append(`<li class="page-item ${activeClass}"><a class="page-link" href="#" data-page="${i}">${i}</a></li>`);
+				}
+				pagination.append(`<li class="page-item next-item"><a class="page-link" href="#" data-page="${nextPage}">Next</a></li>`);
+			}
+		});
+	</script> 
+}
+
+				@section addcss{
+					<style>
+						.grid-item{
+						width: 33% !important;
+			max-height: unset !important;
+						}
+					</style>
+				}

@@ -58,9 +58,11 @@ namespace Harmoni.API
             builder.Services.AddScoped<IAwardService, AwardService>();
             builder.Services.AddScoped<IAdvantageRepository, AdvantageRepository>();
             builder.Services.AddScoped<IAdvantageService, AdvantageService>();
+			builder.Services.AddScoped<IGalleryRepository, GalleryRepository>();
+			builder.Services.AddScoped<IGalleryService, GalleryService>();
 
 
-            var app = builder.Build();
+			var app = builder.Build();
 
 
             // Retrieve the configuration and set WebRootPath

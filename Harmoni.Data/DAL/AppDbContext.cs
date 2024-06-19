@@ -20,8 +20,9 @@ namespace Harmoni.Data.DAL
         public DbSet<FAQ> FAQs { get; set; }
         public DbSet<Speaker> Speakers { get; set; }
         public DbSet<Award> Awards { get; set; }
+        public DbSet<Gallery> Galleries { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(SettingConfiguration).Assembly);
 			base.OnModelCreating(modelBuilder);

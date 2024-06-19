@@ -1,0 +1,83 @@
+﻿
+@using Harmoni.UI.DTOs.About
+@model AwardCreateDTO
+<div class="page-body">
+    <div class="container-fluid">
+        <div class="page-title">
+            <div class="row">
+                <div class="col-6">
+                    <h4>Base Inputs</h4>
+                </div>
+                <div class="col-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="index.html">
+                                <svg class="stroke-icon">
+                                    <use href="https://admin.pixelstrap.net/riho/assets/svg/icon-sprite.svg#stroke-home"></use>
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="breadcrumb-item">Form Controls</li>
+                        <li class="breadcrumb-item active">Base inputs</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Container-fluid starts-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Basic form</h4>
+                        <p class="f-m-light mt-1">
+                            Use the <code>.form-label </code>and <code>.form-control </code>through create basic form.
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-wrapper border rounded-3">
+                            <form method="post" asp-action="CreateAward" class="row g-3">
+                                <div class="col-md-12">
+                                    <label class="form-label" asp-for="Title">Title</label>
+                                    <input class="form-control" asp-for="Title" placeholder="Golden..">
+                                    <span class="text-danger" asp-validation-for="Title"></span>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <label class="form-label" asp-for="Description">Description</label>
+                                    <input class="form-control" asp-for="Description" placeholder="Speaker look like Ali">
+                                    <span class="text-danger" asp-validation-for="Description"></span>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <label class="form-label" asp-for="Date">Date</label>
+                                    <input class="form-control" asp-for="Date" type="date">
+                                    <span class="text-danger" asp-validation-for="Date"></span>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-check checkbox-checked">
+                                        <input class="form-check-input" id="gridCheck1" type="checkbox">
+                                        <label class="form-check-label" for="gridCheck1">Check me out</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary" type="submit">Create</button>
+                                    <a asp-action="award" class="btn btn-info">Cancel</a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Container-fluid Ends-->
+</div>
+
+
+@section addjs{
+   <script>
+     
+   </script>
+}

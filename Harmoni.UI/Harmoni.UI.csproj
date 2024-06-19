@@ -17,6 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\uploads\gallery\video\" />
+    <Folder Include="wwwroot\uploads\gallery\photo\" />
     <Folder Include="wwwroot\uploads\speakers\" />
   </ItemGroup>
 

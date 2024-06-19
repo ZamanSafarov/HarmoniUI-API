@@ -7,15 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{D205
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4F1E367-677F-4F5C-A8A5-782B0CD25A31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmoni.UI", "Harmoni.UI\Harmoni.UI.csproj", "{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harmoni.UI", "Harmoni.UI\Harmoni.UI.csproj", "{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmoni.API", "Harmoni.API\Harmoni.API.csproj", "{363AF660-D320-4DB1-9974-FA0269470698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harmoni.API", "Harmoni.API\Harmoni.API.csproj", "{363AF660-D320-4DB1-9974-FA0269470698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmoni.Business", "Harmoni.Business\Harmoni.Business.csproj", "{63D59824-3511-4825-9374-7048AB587516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harmoni.Business", "Harmoni.Business\Harmoni.Business.csproj", "{63D59824-3511-4825-9374-7048AB587516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmoni.Data", "Harmoni.Data\Harmoni.Data.csproj", "{82F55E01-AE63-41C3-8817-9C86133E87A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harmoni.Data", "Harmoni.Data\Harmoni.Data.csproj", "{82F55E01-AE63-41C3-8817-9C86133E87A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmoni.Core", "Harmoni.Core\Harmoni.Core.csproj", "{BE7D443D-1633-4499-8F9E-AA32F588BFE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harmoni.Core", "Harmoni.Core\Harmoni.Core.csproj", "{BE7D443D-1633-4499-8F9E-AA32F588BFE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

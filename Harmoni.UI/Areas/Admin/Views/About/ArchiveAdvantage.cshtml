@@ -1,0 +1,60 @@
+﻿@using Harmoni.UI.DTOs.About
+@using Harmoni.UI.DTOs
+@using Harmoni.UI.DTOs.About
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+
+@{
+    ViewData["ActionName"] = "ArchiveAdvantage";
+}
+@model IPagedList<AdvantageGetDTO>
+<div class="page-body">
+    <!-- Container-fluid starts-->
+    <div class="container-fluid basic_table">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Basic Table With Border Bottom Color</h4><span>Use a class<code>table</code> to any table, and <code>.border-bottom-*</code>class for Border bottom color</span>
+                    </div>
+                    <div>
+                        <a asp-action="Advantage" asp-controller="about" type="button" class="btn btn-outline-dark">Back</a>
+                    </div>
+                    <div class="table-responsive custom-scrollbar">
+                        <table class="table">
+                            <thead>
+                                <tr class="border-bottom-primary">
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().Id)</th>
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().Title)</th>
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().ShortDescription)</th>
+                                    <th scope="col">@Html.DisplayNameFor(x => x.Single().Icon)</th>
+                                    <th scope="col">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr class="border-bottom-secondary">
+                                        <th scope="row">@item.Id</th>
+                                        <td>@item.Title</td>
+                                        <td>@item.ShortDescription</td>
+                                        <td>@Html.Raw(item.Icon)</td>
+                                        <td>
+                                            <a type="button" asp-action="updateAdvantage" asp-controller="about" asp-route-id="@item.Id" class="btn btn-outline-warning">Update</a>
+                                            <a type="button" asp-action="HardDeleteAdvantage" asp-controller="about" asp-route-id="@item.Id" class="btn btn-outline-danger">Delete</a>
+                                            <a type="button" asp-action="RecoverAdvantage" asp-controller="about" asp-route-id="@item.Id" class="btn btn-outline-danger">Recover</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Container-fluid Ends-->
+    @Html.Partial("_CustomPager", Model)
+
+    @*  @Html.PagedListPager(Model, page => Url.Action("Index", new { pageIndex = page, pageSize = Model.PageSize })) *@
+</div>

@@ -2,6 +2,7 @@
 using Harmoni.Business.DTOs;
 using Harmoni.Business.DTOs.About;
 using Harmoni.Business.DTOs.FAQ;
+using Harmoni.Business.DTOs.Gallery;
 using Harmoni.Core.Entities;
 using System;
 using System.Collections.Generic;
@@ -39,7 +40,11 @@ namespace Harmoni.Business.Mapping
             CreateMap<AdvantageUpdateDTO, Advantage>().ReverseMap();
             CreateMap<AdvantageGetDTO, Advantage>().ReverseMap();
             CreateMap<EntityRecoverDTO, Advantage>().ReverseMap();
+			CreateMap<GalleryCreateDTO, Gallery>().ReverseMap();
+			CreateMap<GalleryUpdateDTO, Gallery>().ReverseMap();
+			CreateMap<GalleryGetDTO, Gallery>().ReverseMap();
+			CreateMap<EntityRecoverDTO, Gallery>().ReverseMap();
 
-        }
+		}
     }
 }

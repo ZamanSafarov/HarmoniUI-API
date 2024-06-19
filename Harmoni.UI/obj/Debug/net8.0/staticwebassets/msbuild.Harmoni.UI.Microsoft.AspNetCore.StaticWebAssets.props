@@ -14128,6 +14128,102 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Harmoni.UI.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-14ebf09d-7fc7-4f81-b66b-495cbbb2c484.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/gallery/photo/gallery-14ebf09d-7fc7-4f81-b66b-495cbbb2c484.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-14ebf09d-7fc7-4f81-b66b-495cbbb2c484.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-30ca4cb9-c2bf-446b-aec2-e7ca7a35aee5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/gallery/photo/gallery-30ca4cb9-c2bf-446b-aec2-e7ca7a35aee5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-30ca4cb9-c2bf-446b-aec2-e7ca7a35aee5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-3a7bf36a-ec7d-4e4a-ba48-1d8b181e1595.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/gallery/photo/gallery-3a7bf36a-ec7d-4e4a-ba48-1d8b181e1595.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-3a7bf36a-ec7d-4e4a-ba48-1d8b181e1595.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-bb9ada23-d543-464a-b434-90dc78cbde62.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/gallery/photo/gallery-bb9ada23-d543-464a-b434-90dc78cbde62.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-bb9ada23-d543-464a-b434-90dc78cbde62.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-d81598b4-2ff3-4aed-9a28-6dfcf87cd43b.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/gallery/photo/gallery-d81598b4-2ff3-4aed-9a28-6dfcf87cd43b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\photo\gallery-d81598b4-2ff3-4aed-9a28-6dfcf87cd43b.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\video\gallery-252d4d19-8e52-4a1e-978f-cf11f0b5c9e3.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/gallery/video/gallery-252d4d19-8e52-4a1e-978f-cf11f0b5c9e3.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\gallery\video\gallery-252d4d19-8e52-4a1e-978f-cf11f0b5c9e3.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Harmoni.UI</SourceId>
