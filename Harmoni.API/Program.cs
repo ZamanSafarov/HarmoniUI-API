@@ -10,6 +10,13 @@ using Harmoni.Data.RepConcretes;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 using System.Text.Json;
+using Harmoni.Core.Identity;
+using Microsoft.AspNetCore.Identity;
+using Harmoni.Business.Services;
+using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace Harmoni.API
 {
@@ -41,11 +48,28 @@ namespace Harmoni.API
 
 			builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cString")));
 
+            builder.Services.AddIdentity<AppUser,IdentityRole>().AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+
+            builder.Services.AddAuthentication(opt => {
+                opt.DefaultScheme=JwtBearerDefaults.AuthenticationScheme;
+                opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+
+            }).AddJwtBearer(opt =>
+            {
+                opt.TokenValidationParameters = new TokenValidationParameters() { 
+                
+                ValidAudience = builder.Configuration.GetSection("JWT:audience").Value,
+                ValidIssuer = builder.Configuration.GetSection("JWT:issuer").Value,
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration.GetSection("JWT:secretKey").Value))
+				};
+            });
+
 			builder.Services.AddAutoMapper(typeof(MapProfile));
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 
-          
+             builder.Services.AddScoped<IJwtService,JwtService>();
             builder.Services.AddScoped<ISettingRepository, SettingRepository>();
             builder.Services.AddScoped<ISettingService,SettingService>();
             builder.Services.AddScoped<IFAQContentRepository, FAQContentRepository>();
@@ -61,6 +85,12 @@ namespace Harmoni.API
 			builder.Services.AddScoped<IGalleryRepository, GalleryRepository>();
 			builder.Services.AddScoped<IGalleryService, GalleryService>();
 
+			builder.Services.Configure<EmailServiceOptions>(cfg =>
+			{
+				builder.Configuration.GetSection("emailAccount").Bind(cfg);
+			});
+
+			builder.Services.AddSingleton<EmailService>();
 
 			var app = builder.Build();
 

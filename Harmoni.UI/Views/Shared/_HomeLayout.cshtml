@@ -171,33 +171,9 @@
                                                                 </span>
                                                             </div>
 
-                                                            <div class="fb-login-btn mb-30">
-                                                                <a href="#!">
-                                                                    <span class="icon">
-                                                                        <i class="fab fa-facebook-f"></i>
-                                                                    </span>
-                                                                    login with facebook
-                                                                </a>
-                                                            </div>
-
-                                                            <div class="or-text mb-30">
-                                                                <span>or sign in</span>
-                                                            </div>
 
                                                             <div class="login-form text-center mb-50">
-                                                                <form action="#!">
-                                                                    <div class="form-item">
-                                                                        <input type="email"
-                                                                               placeholder="example@gmail.com" />
-                                                                    </div>
-                                                                    <div class="form-item">
-                                                                        <input type="password"
-                                                                               placeholder="Password" />
-                                                                    </div>
-                                                                    <button type="submit" class="login-btn">
-                                                                        login now
-                                                                    </button>
-                                                                </form>
+                                                                @Html.Partial("_LoginPartial")
                                                             </div>
 
                                                             <div class="bottom-text white-color">
@@ -215,28 +191,6 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                                            </li>
-                                            <li>
-                                                <button type="button"
-                                                        class="toggle-overlay search-btn">
-                                                    <i class="fas fa-search"></i>
-                                                </button>
-                                                <!-- search-body - start -->
-                                                <div class="search-body">
-                                                    <div class="search-form">
-                                                        <form action="#">
-                                                            <input class="search-input"
-                                                                   type="search"
-                                                                   placeholder="Search Here" />
-                                                            <div class="outer-close toggle-overlay">
-                                                                <button type="button" class="search-close">
-                                                                    <i class="fas fa-times"></i>
-                                                                </button>
-                                                            </div>
-                                                        </form>
-                                                    </div>
-                                                </div>
-                                                <!-- search-body - end -->
                                             </li>
                                         </ul>
                                     </div>

@@ -1,6 +1,8 @@
 ﻿using Harmoni.Core.Entities;
+using Harmoni.Core.Identity;
 using Harmoni.Data.Configurations;
 using Harmoni.Data.RepConcretes;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Harmoni.Data.DAL
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
