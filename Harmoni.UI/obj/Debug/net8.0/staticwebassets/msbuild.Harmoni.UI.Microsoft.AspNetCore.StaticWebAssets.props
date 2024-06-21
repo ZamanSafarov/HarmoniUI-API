@@ -14240,6 +14240,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\archive-20240616200657-speaker-d1f33556-68d1-4bec-a551-17ba7563d4c8.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\archive-20240620215723-speaker-44df1a4c-29aa-44d0-9129-5e45ac9780d8.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Harmoni.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Harmoni.UI</BasePath>
+      <RelativePath>uploads/speakers/archive-20240620215723-speaker-44df1a4c-29aa-44d0-9129-5e45ac9780d8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\archive-20240620215723-speaker-44df1a4c-29aa-44d0-9129-5e45ac9780d8.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\speakers\speaker-7dba8d77-caa1-464b-b2b3-a3e729340030.png))">
       <SourceType>Package</SourceType>
       <SourceId>Harmoni.UI</SourceId>

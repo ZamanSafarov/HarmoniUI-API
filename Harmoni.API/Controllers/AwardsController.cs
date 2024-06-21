@@ -1,5 +1,6 @@
 ﻿using Harmoni.Business.DTOs.About;
 using Harmoni.Business.Services.Abstracts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -33,20 +34,20 @@ namespace Harmoni.API.Controllers
             }
             return Ok(award);
         }
-        [HttpGet("GetAllArchive")]
+        [HttpGet("GetAllArchive"), Authorize(Roles = "SuperAdmin")]
         public IActionResult GetAllArchive()
         {
             return Ok(_awardService.GetAllAwards(x => x.IsDeleted == true));
         }
 
-        [HttpPost]
+        [HttpPost, Authorize(Roles = "SuperAdmin")]
         public IActionResult Create(AwardCreateDTO awardDTO)
         {
             _awardService.AddAward(awardDTO);
             return Ok("Created");
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{id}"), Authorize(Roles = "SuperAdmin")]
         public IActionResult Update(int id, AwardUpdateDTO updateDTO)
         {
 
@@ -55,20 +56,20 @@ namespace Harmoni.API.Controllers
         }
 
         [HttpDelete]
-        [Route("hardDelete/{id}")]
+        [Route("hardDelete/{id}"), Authorize(Roles = "SuperAdmin")]
         public IActionResult HardDelete(int id)
         {
             _awardService.HardDelete(id);
             return NoContent();
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{id}"), Authorize(Roles = "SuperAdmin")]
         public IActionResult Delete(int id)
         {
             _awardService.SoftDelete(id);
             return NoContent();
         }
-        [HttpPut("Recover/{id}")]
+        [HttpPut("Recover/{id}"), Authorize(Roles = "SuperAdmin")]
         public IActionResult Recover(int id)
         {
             _awardService.Recover(id);

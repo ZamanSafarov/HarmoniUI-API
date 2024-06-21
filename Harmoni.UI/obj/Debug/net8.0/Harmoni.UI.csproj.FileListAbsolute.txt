@@ -265,3 +265,11 @@ D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\X.PagedList.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
 D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coding\Aztu-Codeacademy\Harmoni\Harmoni.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

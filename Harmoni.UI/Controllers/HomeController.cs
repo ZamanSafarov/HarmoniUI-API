@@ -12,7 +12,11 @@ namespace Harmoni.UI.Controllers
         {
             return View();
         }
-
+		[Route("/NotFound")]
+		public IActionResult NotFound() { 
+		return View();
+		
+		}
 		public async Task<Dictionary<string, string>> GetSettingAsync()
 		{
 			HttpClient client = new HttpClient();

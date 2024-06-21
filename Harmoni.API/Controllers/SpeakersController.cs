@@ -2,8 +2,10 @@
 using Harmoni.Business.DTOs;
 using Harmoni.Business.Exceptions;
 using Harmoni.Business.Services.Abstracts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 
 namespace Harmoni.API.Controllers
 {

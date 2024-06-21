@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\controllers\\awardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\controllers\\awardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\services\\concretes\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\services\\concretes\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\controllers\\galleriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\controllers\\galleriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\services\\abstracts\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\services\\abstracts\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,132 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "DocumentIndex": 2,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T01:26:47.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_HomeLayout.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_HomeLayout.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Shared\\_HomeLayout.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_HomeLayout.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Shared\\_HomeLayout.cshtml",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAwK8AAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T01:15:31.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\account\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Harmoni.UI\\DTOs\\account\\LoginDTO.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\DTOs\\account\\LoginDTO.cs",
-              "RelativeToolTip": "Harmoni.UI\\DTOs\\account\\LoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T01:11:52.566Z",
+              "WhenOpened": "2024-06-21T02:05:20.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Harmoni.UI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAcwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T01:09:38.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Harmoni.UI\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Harmoni.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:33:40.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GalleriesController.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\GalleriesController.cs",
-              "RelativeDocumentMoniker": "Harmoni.API\\Controllers\\GalleriesController.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\GalleriesController.cs",
-              "RelativeToolTip": "Harmoni.API\\Controllers\\GalleriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:30:32.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Program.cs",
-              "RelativeDocumentMoniker": "Harmoni.API\\Program.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Program.cs",
-              "RelativeToolTip": "Harmoni.API\\Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:20:06.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Concretes\\JwtService.cs",
-              "RelativeDocumentMoniker": "Harmoni.Business\\Services\\Concretes\\JwtService.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Concretes\\JwtService.cs",
-              "RelativeToolTip": "Harmoni.Business\\Services\\Concretes\\JwtService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwDMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:15:17.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Abstracts\\IJwtService.cs",
-              "RelativeDocumentMoniker": "Harmoni.Business\\Services\\Abstracts\\IJwtService.cs",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\Abstracts\\IJwtService.cs",
-              "RelativeToolTip": "Harmoni.Business\\Services\\Abstracts\\IJwtService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:12:34.625Z",
+              "WhenOpened": "2024-06-21T02:04:58.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Harmoni.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:47:46.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Program.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Program.cs",
+              "RelativeToolTip": "Harmoni.UI\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:46:50.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcDAAAAAAAAAAAAAEoDAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:23:15.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AwardsController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\AwardsController.cs",
+              "RelativeDocumentMoniker": "Harmoni.API\\Controllers\\AwardsController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\AwardsController.cs",
+              "RelativeToolTip": "Harmoni.API\\Controllers\\AwardsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA2wEcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:44:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Harmoni.API\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Harmoni.API\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAkwHEAAAAZAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAACQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:30:19.254Z",
+              "WhenOpened": "2024-06-21T01:44:19.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Gallery\\Index.cshtml",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Gallery\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Gallery\\Index.cshtml",
+              "RelativeToolTip": "Harmoni.UI\\Views\\Gallery\\Index.cshtml",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T01:31:21.454Z",
               "EditorCaption": ""
             }
           ]
