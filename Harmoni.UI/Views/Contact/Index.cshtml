@@ -1,4 +1,7 @@
-﻿<!-- breadcrumb-section - start
+﻿@using Harmoni.UI.DTOs.Contact
+
+@model ContactDTO
+<!-- breadcrumb-section - start
 ================================================== -->
 <section id="breadcrumb-section" class="breadcrumb-section clearfix">
 	<div class="jarallax" style="background-image: url(../assets/images/breadcrumb/0.breadcrumb-bg.jpg);">
@@ -28,59 +31,118 @@
 		</div>
 	</div>
 </section>
-<!-- breadcrumb-section - end
+<!-- breadcrumb-section - end 
 ================================================== -->
-<!-- contact-section - start
-================================================== -->
+
+<!-- contact-section - start -->
 <section id="contact-section" class="contact-section sec-ptb-100 clearfix">
-	<div class="container">
+    <div class="container">
 
-		<!-- section-title - start -->
-		<div class="section-title mb-50">
-			<small class="sub-title">contact us</small>
-			<h2 class="big-title">Keep in touch <strong>with harmoni</strong></h2>
-		</div>
-		<!-- section-title - end -->
-		<!-- contact-form - start -->
-		<div class="contact-form form-wrapper text-center">
-			<form method="post">
-				<div class="row">
+        <!-- section-title - start -->
+        <div class="section-title mb-50">
+            <small class="sub-title">contact us</small>
+            <h2 class="big-title">Keep in touch <strong>with harmoni</strong></h2>
+        </div>
+        <!-- section-title - end -->
+        <!-- contact-form - start -->
+        <div class="contact-form form-wrapper text-center">
+            <form method="post" asp-action="Contact">
+                <div class="row">
 
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="form-item">
-							<input type="text" placeholder="Your Name" required>
-						</div>
-					</div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="form-item">
+                            <input asp-for="Name" class="form-control" placeholder="Your Name" required>
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="form-item">
-							<input type="email" placeholder="Email Address" required>
-						</div>
-					</div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="form-item">
+                            <input asp-for="Email" class="form-control" placeholder="Email Address" required>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                    </div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="form-item">
-							<input type="text" placeholder="Your Country" required>
-						</div>
-					</div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="form-item">
+                            <input asp-for="Country" class="form-control" placeholder="Your Country" required>
+                            <span asp-validation-for="Country" class="text-danger"></span>
+                        </div>
+                    </div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="form-item">
-							<input type="tel" placeholder="Phone Number" required>
-						</div>
-					</div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="form-item">
+                            <input asp-for="Phone" class="form-control" placeholder="Phone Number" required>
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                    </div>
 
-					<div class="col-lg-12 col-md-12 col-sm-12">
-						<textarea placeholder="Your Message" required></textarea>
-						<button type="submit" class="custom-btn">send mail</button>
-					</div>
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="form-item">
+                            <textarea asp-for="Message" class="form-control" placeholder="Your Message" required></textarea>
+                            <span asp-validation-for="Message" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="custom-btn send-email">Send Mail</button>
+                    </div>
 
-				</div>
-			</form>
-		</div>
-		<!-- contact-form - end -->
+                </div>
+            </form>
+        </div>
+        <!-- contact-form - end -->
 
-	</div>
+    </div>
 </section>
-<!-- contact-section - end
-================================================== -->
+<!-- contact-section - end -->
+
+
+
+@section addjs{
+
+    <script>
+        let sendBtn = document.querySelector(".send-email");
+        sendBtn.addEventListener("click", function (e) {
+            e.preventDefault()
+
+            let formData = {
+                Name: document.querySelector('input[name="Name"]').value,
+                Email: document.querySelector('input[name="Email"]').value,
+                Country: document.querySelector('input[name="Country"]').value,
+                Phone: document.querySelector('input[name="Phone"]').value,
+                Message: document.querySelector('textarea[name="Message"]').value
+            };
+
+            fetch("/Contact/Contact", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(formData)
+            })
+                .then(response => {
+                    if (response.ok) {
+                        Swal.fire({
+                            icon: "success",
+                            title: "Message sent successfully!",
+                            showConfirmButton: false,
+                            timer: 1500
+                        });
+                        // Optionally, reset the form after successful submission
+                        document.querySelector("form").reset();
+                    } else {
+                        throw new Error("Failed to send message");
+                    }
+                })
+                .catch(error => {
+                    Swal.fire({
+                        icon: "error",
+                        title: "Error",
+                        text: error.message,
+                    });
+                });
+                
+        })
+        
+    </script>
+
+
+}

@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="~/admin/assets/css/font-awesome.css">
     <!-- ico-font-->
     <link rel="stylesheet" type="text/css" href="~/admin/assets/css/vendors/icofont.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Themify icon-->
     <link rel="stylesheet" type="text/css" href="~/admin/assets/css/vendors/themify.css">
     <!-- Flag icon-->
@@ -109,52 +110,6 @@
                                             <input type="search" placeholder="Search">
                                         </div>
                                     </span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="onhover-dropdown">
-                            <svg>
-                                <use href="https://admin.pixelstrap.net/riho/assets/svg/icon-sprite.svg#star"></use>
-                            </svg>
-                            <div class="onhover-show-div bookmark-flip">
-                                <div class="flip-card">
-                                    <div class="flip-card-inner">
-                                        <div class="front">
-                                            <h6 class="f-18 mb-0 dropdown-title">Bookmark</h6>
-                                            <ul class="bookmark-dropdown">
-                                                <li>
-                                                    <div class="row">
-                                                        <div class="col-4 text-center">
-                                                            <div class="bookmark-content">
-                                                                <div class="bookmark-icon"><i data-feather="file-text"></i></div><span>Forms</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-4 text-center">
-                                                            <div class="bookmark-content">
-                                                                <div class="bookmark-icon"><i data-feather="user"></i></div><span>Profile</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-4 text-center">
-                                                            <div class="bookmark-content">
-                                                                <div class="bookmark-icon"><i data-feather="server"></i></div><span>Tables</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="text-center"><a class="flip-btn f-w-700" id="flip-btn" href="javascript:void(0)">Add New Bookmark</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="back">
-                                            <ul>
-                                                <li>
-                                                    <div class="bookmark-dropdown flip-back-content">
-                                                        <input type="text" placeholder="search...">
-                                                    </div>
-                                                </li>
-                                                <li><a class="f-w-700 d-block flip-back" id="flip-back" href="javascript:void(0)">Back</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -420,6 +375,7 @@
 <!-- feather icon js-->
 <script src="~/admin/assets/js/icons/feather-icon/feather.min.js"></script>
 <script src="~/admin/assets/js/icons/feather-icon/feather-icon.js"></script>
+
 <!-- scrollbar js-->
 <script src="~/admin/assets/js/scrollbar/simplebar.js"></script>
 <script src="~/admin/assets/js/scrollbar/custom.js"></script>
@@ -450,7 +406,6 @@
 <!-- Plugins JS Ends-->
 <!-- Theme js-->
 <script src="~/admin/assets/js/script.js"></script>
-    <script src="~/admin/assets/js/theme-customizer/customizer.js"></script>
     @RenderSection("addjs", required: false)
 
   </body>
