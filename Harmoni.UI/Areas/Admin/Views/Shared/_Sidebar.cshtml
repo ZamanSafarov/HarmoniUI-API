@@ -44,6 +44,21 @@
                     </ul>
                 </li>
                 <li class="sidebar-list">
+                    <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title" href="#">
+                        <i style="color:white" class="fa-solid fa-user"></i><span>Event</span>
+                    </a>
+                    <ul class="sidebar-submenu">
+                        <li><a asp-action="index" asp-controller="event">Events</a></li>
+                        <li><a asp-action="index" asp-controller="schedule">Event Scedules</a></li>
+                        <li><a asp-action="index" asp-controller="package">Event Packages</a></li>
+                    </ul>
+                </li>
+                <li class="sidebar-list">
+                    <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title link-nav" asp-action="index" asp-controller="order">
+                        <i style="color:white" class="fa-solid fa-user"></i> <span>Orders</span>
+                    </a>
+                </li>
+                <li class="sidebar-list">
                     <i class="fa fa-thumb-tack"></i><a class="sidebar-link sidebar-title link-nav" asp-action="index" asp-controller="setting">
                         <i style="color:white" class="fa-solid fa-user"></i> <span>Website Settings</span>
                     </a>

@@ -10,6 +10,8 @@ namespace Harmoni.UI.DTOs.FAQ
     public class FAQContentCreateDTO
     {
         public string Name { get; set; }
+        public int EventId { get; set; }
+
     }
- 
+
 }

@@ -13,6 +13,8 @@ namespace Harmoni.Business.DTOs.FAQ
 
         public string Name { get; set; }
         public List<Harmoni.Core.Entities.FAQ> FAQs { get; set; }
+        public int EventId { get; set; }
+
     }
     public class FAQContentGetDTOValidator : AbstractValidator<FAQContentGetDTO>
     {

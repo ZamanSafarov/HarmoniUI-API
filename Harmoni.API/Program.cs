@@ -84,8 +84,10 @@ namespace Harmoni.API
             builder.Services.AddScoped<IAdvantageService, AdvantageService>();
 			builder.Services.AddScoped<IGalleryRepository, GalleryRepository>();
 			builder.Services.AddScoped<IGalleryService, GalleryService>();
+            builder.Services.AddScoped<IEventRepository, EventRepository>();
+            builder.Services.AddScoped<IEventService, EventService>();
 
-			builder.Services.Configure<EmailServiceOptions>(cfg =>
+            builder.Services.Configure<EmailServiceOptions>(cfg =>
 			{
 				builder.Configuration.GetSection("emailAccount").Bind(cfg);
 			});

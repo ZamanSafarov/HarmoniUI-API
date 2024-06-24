@@ -23,6 +23,8 @@ namespace Harmoni.Data.DAL
         public DbSet<Speaker> Speakers { get; set; }
         public DbSet<Award> Awards { get; set; }
         public DbSet<Gallery> Galleries { get; set; }
+        public DbSet<Ticket> Tickets { get; set; }
+        public DbSet<Event> Events { get; set; }
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{

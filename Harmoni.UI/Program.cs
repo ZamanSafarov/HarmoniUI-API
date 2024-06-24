@@ -38,8 +38,9 @@ namespace Harmoni.UI
            
             builder.Services.AddScoped<HomeController>();
             builder.Services.AddScoped<HttpClient>();
+            builder.Services.AddHttpClient();
 
-			var app = builder.Build();
+            var app = builder.Build();
 
             var env = app.Services.GetRequiredService<IWebHostEnvironment>();
             var webRootPath = env.WebRootPath;

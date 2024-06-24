@@ -10,6 +10,7 @@ namespace Harmoni.Business.DTOs.FAQ
     public class FAQContentCreateDTO
     {
         public string Name { get; set; }
+        public int EventId { get; set; }
     }
     public class FAQContentCreateDTOValidator : AbstractValidator<FAQContentCreateDTO>
     {

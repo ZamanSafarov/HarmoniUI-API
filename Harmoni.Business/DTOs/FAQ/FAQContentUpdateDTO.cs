@@ -10,7 +10,7 @@ namespace Harmoni.Business.DTOs.FAQ
     public class FAQContentUpdateDTO
     {
         public string Name { get; set; }
-
+        public int EventId { get; set; }
 
 
     }

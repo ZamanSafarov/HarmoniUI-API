@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Sidebar.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T01:04:59.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEkBAAAAAAAAAAAkwHYBAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T01:01:44.419Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Harmoni.UI\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Harmoni.UI\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T00:57:47.579Z",
-              "EditorCaption": ""
             }
           ]
         }

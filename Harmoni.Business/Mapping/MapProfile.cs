@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Harmoni.Business.DTOs;
 using Harmoni.Business.DTOs.About;
+using Harmoni.Business.DTOs.Event;
 using Harmoni.Business.DTOs.FAQ;
 using Harmoni.Business.DTOs.Gallery;
 using Harmoni.Core.Entities;
@@ -44,7 +45,11 @@ namespace Harmoni.Business.Mapping
 			CreateMap<GalleryUpdateDTO, Gallery>().ReverseMap();
 			CreateMap<GalleryGetDTO, Gallery>().ReverseMap();
 			CreateMap<EntityRecoverDTO, Gallery>().ReverseMap();
+            CreateMap<EventCreateDTO, Event>().ReverseMap();
+            CreateMap<EventGetDTO, Event>().ReverseMap();
+            CreateMap<EventUpdateDTO, Event>().ReverseMap();
+            CreateMap<EntityRecoverDTO, Event>().ReverseMap();
 
-		}
+        }
     }
 }

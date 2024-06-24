@@ -10,5 +10,7 @@ namespace Harmoni.Core.Entities
     {
         public string Name { get; set; }
         public List<FAQ> FAQs { get; set; }
+        public int? EventId { get; set; }
+        public Event? Event { get; set; }
     }
 }

@@ -12,26 +12,50 @@ namespace Harmoni.Business.Helper
 {
     public static partial class Extensions
     {
-		public static string FileAdd(this IWebHostEnvironment env, string folder, IFormFile file, string content)
-		{
-			if (!file.ContentType.Contains("image/") && !file.ContentType.Contains("video/"))
-			{
-				throw new FileExtensionsException("File must be an image or video!");
-			}
+        public static string FileAdd(this IWebHostEnvironment env, string folder, IFormFile file, string content)
+        {
+            if (!file.ContentType.Contains("image/") && !file.ContentType.Contains("video/"))
+            {
+                throw new FileExtensionsException("File must be an image or video!");
+            }
 
-			string extension = Path.GetExtension(file.FileName);
-			string fileName = content + "-" + Guid.NewGuid().ToString().ToLower() + extension;
-			var path = Path.Combine(env.WebRootPath, folder, fileName);
+            string extension = Path.GetExtension(file.FileName);
+            string fileName = content + "-" + Guid.NewGuid().ToString().ToLower() + extension;
+            var path = Path.Combine(env.WebRootPath, folder, fileName);
 
-			using (FileStream fs = new FileStream(path, FileMode.Create))
-			{
-				file.CopyTo(fs);
-			}
+            using (FileStream fs = new FileStream(path, FileMode.Create))
+            {
+                file.CopyTo(fs);
+            }
 
-			return fileName;
-		}
+            return fileName;
+        }
+        public static List<string> FilesAdd(this IWebHostEnvironment env, string folder, IEnumerable<IFormFile> files, string content)
+        {
+            List<string> fileNames = new List<string>();
 
-		public static void ArchiveFile(this IWebHostEnvironment env, string folder, string fileName)
+            foreach (var file in files)
+            {
+                if (!file.ContentType.Contains("image/") && !file.ContentType.Contains("video/"))
+                {
+                    throw new FileExtensionsException("File must be an image or video!");
+                }
+
+                string extension = Path.GetExtension(file.FileName);
+                string fileName = content + "-" + Guid.NewGuid().ToString().ToLower() + extension;
+                var path = Path.Combine(env.WebRootPath, folder, fileName);
+
+                using (FileStream fs = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(fs);
+                }
+
+                fileNames.Add(fileName);
+            }
+
+            return fileNames;
+        }
+        public static void ArchiveFile(this IWebHostEnvironment env, string folder, string fileName)
 		{
 			var actualPath = Path.Combine(env.WebRootPath, folder, fileName);
 

@@ -16,5 +16,8 @@ namespace Harmoni.Core.Entities
 		public string? InstagramUrl { get; set; }
 		public string? XUrl { get; set; }
 		public string? TwitchUrl { get; set; }
-	}
+
+        public int? EventId { get; set; }
+        public Event? Event { get; set; }
+    }
 }

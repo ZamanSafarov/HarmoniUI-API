@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Net;
 using X.PagedList;
+using Harmoni.UI.DTOs.Event;
 
 namespace Harmoni.UI.Areas.Admin.Controllers
 {
@@ -85,6 +86,15 @@ namespace Harmoni.UI.Areas.Admin.Controllers
 
         public async Task<IActionResult> Create()
         {
+            HttpClient client = new HttpClient();
+            var response = await client.GetAsync($"https://localhost:7222/api/Events");
+            response.EnsureSuccessStatusCode();
+
+            var content = await response.Content.ReadAsStringAsync();
+            var events = JsonConvert.DeserializeObject<List<EventGetDTO>>(content);
+         
+            ViewBag.Events = events;
+          
             return View();
         }
         [HttpPost]
@@ -156,8 +166,14 @@ namespace Harmoni.UI.Areas.Admin.Controllers
 
             HttpClient client = new HttpClient();
             var data = await client.GetFromJsonAsync<FAQContentUpdateDTO>($"https://localhost:7222/api/FAQContents/{id}");
+            var response = await client.GetAsync($"https://localhost:7222/api/Events");
+            response.EnsureSuccessStatusCode();
 
-          
+            var content = await response.Content.ReadAsStringAsync();
+            var events = JsonConvert.DeserializeObject<List<EventGetDTO>>(content);
+
+            ViewBag.Events = events;
+
             return View(data);
         }
 
@@ -169,17 +185,19 @@ namespace Harmoni.UI.Areas.Admin.Controllers
                 return View();
             }
             HttpClient client = new HttpClient();
-            var result = await client.PutAsJsonAsync<FAQContentUpdateDTO>($"https://localhost:7222/api/FAQContents/{id}", updateDTO);
+            var content = new StringContent(JsonConvert.SerializeObject(updateDTO), System.Text.Encoding.UTF8, "application/json");
+            var response = await client.PutAsync($"https://localhost:7222/api/FAQContents/{id}", content);
+
 
             //response.EnsureSuccessStatusCode();
-            if (result.IsSuccessStatusCode)
+            if (response.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
             }
             else
             {
-                var customResponse = await result.Content.ReadAsAsync<CustomResponse>();
-                if (result.StatusCode == (HttpStatusCode)customResponse.Code)
+                var customResponse = await response.Content.ReadAsAsync<CustomResponse>();
+                if (response.StatusCode == (HttpStatusCode)customResponse.Code)
                 {
                     ViewBag.Message = customResponse.Message;
                     return View();
