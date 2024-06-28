@@ -17,6 +17,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Harmoni.Business.Providers;
 
 namespace Harmoni.API
 {
@@ -37,7 +38,7 @@ namespace Harmoni.API
 
             builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
-            builder.Services.AddControllers().AddNewtonsoftJson(options =>
+            builder.Services.AddControllers(opt=>opt.ModelBinderProviders.Insert(0,new BooleanBinderProvider())).AddNewtonsoftJson(options =>
             {
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             }).AddFluentValidation(opt => opt.RegisterValidatorsFromAssembly(typeof(SettingGetDTOValidator).Assembly)).AddJsonOptions(options =>
@@ -86,6 +87,15 @@ namespace Harmoni.API
 			builder.Services.AddScoped<IGalleryService, GalleryService>();
             builder.Services.AddScoped<IEventRepository, EventRepository>();
             builder.Services.AddScoped<IEventService, EventService>();
+            builder.Services.AddScoped<ITicketRepository, TicketRepository>();
+            builder.Services.AddScoped<ITicketService, TicketService>();
+            builder.Services.AddScoped<IDayRepository, DayRepository>();
+            builder.Services.AddScoped<ILocationRepository, LocationRepository>();
+            builder.Services.AddScoped<IEventScheduleRepository, EventScheduleRepository>();
+
+            builder.Services.AddScoped<IDayService, DayService>();
+            builder.Services.AddScoped<ILocationService, LocationService>();
+            builder.Services.AddScoped<IEventScheduleService, EventScheduleService>();
 
             builder.Services.Configure<EmailServiceOptions>(cfg =>
 			{

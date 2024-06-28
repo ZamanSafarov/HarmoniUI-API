@@ -21,6 +21,7 @@
     <Folder Include="wwwroot\uploads\gallery\video\" />
     <Folder Include="wwwroot\uploads\gallery\photo\" />
     <Folder Include="wwwroot\uploads\events\" />
+    <Folder Include="wwwroot\uploads\eventSchedules\" />
     <Folder Include="wwwroot\uploads\speakers\" />
   </ItemGroup>
 

@@ -92,9 +92,9 @@ namespace Harmoni.UI.Areas.Admin.Controllers
 
             var content = await response.Content.ReadAsStringAsync();
             var events = JsonConvert.DeserializeObject<List<EventGetDTO>>(content);
-         
+
             ViewBag.Events = events;
-          
+
             return View();
         }
         [HttpPost]
@@ -108,20 +108,20 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             var content = new StringContent(JsonConvert.SerializeObject(faqDTO), System.Text.Encoding.UTF8, "application/json");
             var response = await client.PostAsync("https://localhost:7222/api/FAQContents", content);
 
-			//response.EnsureSuccessStatusCode();
-			if (response.IsSuccessStatusCode)
+            //response.EnsureSuccessStatusCode();
+            if (response.IsSuccessStatusCode)
             {
-				return RedirectToAction("Index");
-			}
-			else
-			{
-				var customResponse = await response.Content.ReadAsAsync<CustomResponse>();
-				if (response.StatusCode == (HttpStatusCode)customResponse.Code)
-				{
-					ViewBag.Message = customResponse.Message;
-					return View();
-				}
-			}
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                var customResponse = await response.Content.ReadAsAsync<CustomResponse>();
+                if (response.StatusCode == (HttpStatusCode)customResponse.Code)
+                {
+                    ViewBag.Message = customResponse.Message;
+                    return View();
+                }
+            }
 
             return RedirectToAction("Index");
 
@@ -165,7 +165,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         {
 
             HttpClient client = new HttpClient();
-            var data = await client.GetFromJsonAsync<FAQContentUpdateDTO>($"https://localhost:7222/api/FAQContents/{id}");
+            var data = await client.GetFromJsonAsync<FAQContentGetDTO>($"https://localhost:7222/api/FAQContents/{id}");
             var response = await client.GetAsync($"https://localhost:7222/api/Events");
             response.EnsureSuccessStatusCode();
 
@@ -182,29 +182,34 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return View();
+                return View(updateDTO);
             }
+
             HttpClient client = new HttpClient();
             var content = new StringContent(JsonConvert.SerializeObject(updateDTO), System.Text.Encoding.UTF8, "application/json");
+
+
             var response = await client.PutAsync($"https://localhost:7222/api/FAQContents/{id}", content);
 
-
-            //response.EnsureSuccessStatusCode();
             if (response.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
             }
             else
             {
+                var responseBody = await response.Content.ReadAsStringAsync();
                 var customResponse = await response.Content.ReadAsAsync<CustomResponse>();
                 if (response.StatusCode == (HttpStatusCode)customResponse.Code)
                 {
                     ViewBag.Message = customResponse.Message;
-                    return View();
+                    return View(updateDTO);
+                }
+                else
+                {
+                    ViewBag.Message = responseBody;
+                    return View(updateDTO);
                 }
             }
-
-            return RedirectToAction("Index");
         }
     }
 }

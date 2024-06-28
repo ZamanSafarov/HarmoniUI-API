@@ -134,8 +134,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Schedule/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2NoZWR1bGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Schedule/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2NoZWR1bGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Schedule/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2NoZWR1bGVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Setting/Archive.cshtml]
@@ -178,8 +186,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlYWtlclxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Ticket/Archive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGlja2V0XEFyY2hpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Ticket/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGlja2V0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Ticket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGlja2V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/Ticket/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGlja2V0XFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Coding/Aztu-Codeacademy/Harmoni/Harmoni.UI/Areas/Admin/Views/_ViewImports.cshtml]

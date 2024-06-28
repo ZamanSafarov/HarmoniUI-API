@@ -154,8 +154,13 @@ namespace Harmoni.UI.Areas.Admin.Controllers
         {
 
             HttpClient client = new HttpClient();
-            var data = await client.GetFromJsonAsync<FAQUpdateDTO>($"https://localhost:7222/api/FAQs/{id}");
+            var data = await client.GetFromJsonAsync<FAQGetDTO>($"https://localhost:7222/api/FAQs/{id}");
 
+            var update = new FAQUpdateDTO();
+
+            update.Question = data.Question;
+            update.Answer = data.Answer;
+            update.FAQContentId = data.FAQContent.Id;
 
             var response = await client.GetAsync($"https://localhost:7222/api/FAQContents");
             response.EnsureSuccessStatusCode();
@@ -164,7 +169,7 @@ namespace Harmoni.UI.Areas.Admin.Controllers
             var fAQContents = JsonConvert.DeserializeObject<List<FAQContentGetDTO>>(content);
 
             ViewBag.FAQContents = fAQContents;
-            return View(data);
+            return View(update);
         }
 
         [HttpPost]

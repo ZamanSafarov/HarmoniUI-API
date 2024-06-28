@@ -2,6 +2,7 @@
 
 using Harmoni.UI.Controllers;
 using Harmoni.UI.DTOs.account;
+using Harmoni.UI.Providers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -34,7 +35,7 @@ namespace Harmoni.UI
 		        };
 	        });
 			// Add services to the container.
-			builder.Services.AddControllersWithViews();
+			builder.Services.AddControllersWithViews(opt => opt.ModelBinderProviders.Insert(0, new BooleanBinderProvider()));
            
             builder.Services.AddScoped<HomeController>();
             builder.Services.AddScoped<HttpClient>();

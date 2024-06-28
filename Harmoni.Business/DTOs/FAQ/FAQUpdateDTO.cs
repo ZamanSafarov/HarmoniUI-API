@@ -12,9 +12,8 @@ namespace Harmoni.Business.DTOs.FAQ
     {
         public string Question { get; set; }
         public string Answer { get; set; }
-        public int FAQContentId { get; set; }
 
-        public FAQContent FAQContent { get; set; }
+        public int FAQContentId { get; set; }
     }
     public class FAQUpdateDTOValidator : AbstractValidator<FAQUpdateDTO>
     {

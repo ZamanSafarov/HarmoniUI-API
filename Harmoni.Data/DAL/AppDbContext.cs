@@ -25,8 +25,12 @@ namespace Harmoni.Data.DAL
         public DbSet<Gallery> Galleries { get; set; }
         public DbSet<Ticket> Tickets { get; set; }
         public DbSet<Event> Events { get; set; }
+        public DbSet<EventImage> EventImages { get; set; }
+        public DbSet<EventSchedule> EventSchedules { get; set; }
+        public DbSet<Day> Days { get; set; }
+        public DbSet<Location> Locations { get; set; }
 
-		protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(SettingConfiguration).Assembly);
 			base.OnModelCreating(modelBuilder);

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363AF660-D320-4DB1-9974-FA0269470698}|Harmoni.API\\Harmoni.API.csproj|solutionrelative:harmoni.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209EFE33-A3B4-482A-995B-CD48F6FBF5E4}|Harmoni.UI\\Harmoni.UI.csproj|solutionrelative:harmoni.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|d:\\coding\\aztu-codeacademy\\harmoni\\harmoni.business\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D59824-3511-4825-9374-7048AB587516}|Harmoni.Business\\Harmoni.Business.csproj|solutionrelative:harmoni.business\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Harmoni.Business\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.Business\\Services\\EmailService.cs",
+              "RelativeToolTip": "Harmoni.Business\\Services\\EmailService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:14:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Harmoni.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Harmoni.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA2wDwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:36:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Harmoni.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Harmoni\\Harmoni.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Harmoni.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAQwMcAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:35:12.168Z",
+              "EditorCaption": ""
             }
           ]
         }

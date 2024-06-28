@@ -122,6 +122,40 @@ namespace Harmoni.Data.Migrations
                     b.ToTable("Awards");
                 });
 
+            modelBuilder.Entity("Harmoni.Core.Entities.Day", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DeletedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DeletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Days");
+                });
+
             modelBuilder.Entity("Harmoni.Core.Entities.Event", b =>
                 {
                     b.Property<int>("Id")
@@ -152,9 +186,6 @@ namespace Harmoni.Data.Migrations
                     b.Property<TimeSpan>("EndTime")
                         .HasColumnType("time");
 
-                    b.Property<string>("ImageUrls")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
@@ -178,6 +209,112 @@ namespace Harmoni.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Events");
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.EventImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DeletedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DeletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("EventId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsMain")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("EventId");
+
+                    b.ToTable("EventImages");
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.EventSchedule", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DeletedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DeletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("EventId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("LocationId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("MaxSeats")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Speaker")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Time")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("EventId");
+
+                    b.HasIndex("LocationId");
+
+                    b.ToTable("EventSchedules");
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.FAQ", b =>
@@ -308,6 +445,45 @@ namespace Harmoni.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Galleries");
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.Location", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("DayId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("DeletedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DeletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DayId");
+
+                    b.ToTable("Locations");
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.Setting", b =>
@@ -678,6 +854,32 @@ namespace Harmoni.Data.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("Harmoni.Core.Entities.EventImage", b =>
+                {
+                    b.HasOne("Harmoni.Core.Entities.Event", "Event")
+                        .WithMany("Images")
+                        .HasForeignKey("EventId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Event");
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.EventSchedule", b =>
+                {
+                    b.HasOne("Harmoni.Core.Entities.Event", null)
+                        .WithMany("EventSchedules")
+                        .HasForeignKey("EventId");
+
+                    b.HasOne("Harmoni.Core.Entities.Location", "Location")
+                        .WithMany("EventSchedules")
+                        .HasForeignKey("LocationId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Location");
+                });
+
             modelBuilder.Entity("Harmoni.Core.Entities.FAQ", b =>
                 {
                     b.HasOne("Harmoni.Core.Entities.FAQContent", "FAQContent")
@@ -696,6 +898,17 @@ namespace Harmoni.Data.Migrations
                         .HasForeignKey("EventId");
 
                     b.Navigation("Event");
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.Location", b =>
+                {
+                    b.HasOne("Harmoni.Core.Entities.Day", "Day")
+                        .WithMany("Locations")
+                        .HasForeignKey("DayId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Day");
                 });
 
             modelBuilder.Entity("Harmoni.Core.Entities.Speaker", b =>
@@ -758,9 +971,18 @@ namespace Harmoni.Data.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("Harmoni.Core.Entities.Day", b =>
+                {
+                    b.Navigation("Locations");
+                });
+
             modelBuilder.Entity("Harmoni.Core.Entities.Event", b =>
                 {
+                    b.Navigation("EventSchedules");
+
                     b.Navigation("FAQs");
+
+                    b.Navigation("Images");
 
                     b.Navigation("Speakers");
                 });
@@ -768,6 +990,11 @@ namespace Harmoni.Data.Migrations
             modelBuilder.Entity("Harmoni.Core.Entities.FAQContent", b =>
                 {
                     b.Navigation("FAQs");
+                });
+
+            modelBuilder.Entity("Harmoni.Core.Entities.Location", b =>
+                {
+                    b.Navigation("EventSchedules");
                 });
 #pragma warning restore 612, 618
         }

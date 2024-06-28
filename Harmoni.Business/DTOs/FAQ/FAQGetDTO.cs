@@ -13,7 +13,7 @@ namespace Harmoni.Business.DTOs.FAQ
         public int Id { get; set; }
         public string Question { get; set; }
         public string Answer { get; set; }
-        public FAQContent FAQContent { get; set; }
+        public FAQContent? FAQContent { get; set; }
 
 
 

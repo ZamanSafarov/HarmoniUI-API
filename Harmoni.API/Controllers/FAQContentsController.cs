@@ -56,12 +56,7 @@ namespace Harmoni.API.Controllers
         [HttpPut("{id}")]
         public IActionResult Update(int id, FAQContentUpdateDTO updateDTO)
         {
-            if (_faqContentService.GetAllFAQContents().Any(x => x.Name == updateDTO.Name))
-            {
-                var response = new CustomResponse(400, "Name Already exsist!");
-
-                return StatusCode(response.Code, response);
-            }
+           
             _faqContentService.UpdateFAQContent(id, updateDTO);
             return NoContent();
         }

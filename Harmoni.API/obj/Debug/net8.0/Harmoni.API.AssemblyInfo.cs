@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harmoni.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c119ca72bb0bb72a706593556ba07432f446b76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e71cbbf7b24d628c98b6413dc25bd045dd7c1f7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harmoni.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harmoni.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
